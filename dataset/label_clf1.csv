@@ -1,0 +1,201 @@
+DatasetName,Target,Pipeline,EvaluationMetric,Time,Size,Website
+ Titanic,Survived,"MR,MEDIAN,BE,ZS,dup_null,out_null,CART",0.832402235,18.0302248, 891*12, https://www.kaggle.com/code/kenjee/titanic-project-example
+ HeartAttack,output,"IQR,MM,dup_null,enc_null,imp_null,fea_null,RF",0.86440678,0.092974901, 303*14, https://www.kaggle.com/code/advikmaniar/heart-attack-eda-prediction-with-9-model-95
+ Stroke,stroke,"MM,fea_null,dup_null,out_null,enc_null,imp_null,RF",0.964430894,0.273109674, 5111*12, https://www.kaggle.com/code/gaetanlopez/how-to-make-clean-visualizations
+ HepatitisCdata,Category,"DROP,enc_null,fea_null,out_null,dup_null,nor_null,NB",0.991596639,0.000102282, 615*14, https://www.kaggle.com/code/thesanketsharma/hepatitis-c-pred
+ Heart,HeartDisease,"OE,out_null,nor_null,imp_null,nor_null,dup_null,RF",0.918478261,0.169237375, 918*12, https://www.kaggle.com/code/pythonafroz/categorical-to-numerical-encoding-methods
+ Star,class,"IQR,fea_null,nor_null,enc_null,imp_null,dup_null,RF",0.97921429,18.64517355, 100000*18, https://www.kaggle.com/code/waleedfaheem/stellar-classification-and-supervised-learning
+ Acoustic,STATUS,"OE,MM,out_null,fea_null,imp_null,dup_null,RF",0.970478647,0.542173862, 17442*7, https://www.kaggle.com/code/jainendra2607/fire-classification-problem
+ WeatherAUS,RainTomorrow,"MEAN,OE,nor_null,out_null,fea_null,dup_null,RF",0.854695355,22.90050602, 145460*23, https://www.kaggle.com/code/fahadmehfoooz/rain-prediction-with-90-65-accuracy
+ MobilePrice,price_range,"ZSB,nor_null,imp_null,enc_null,fea_null,dup_null,LDA",0.948125,0.044913292, 2000*21, https://www.kaggle.com/code/mahmoudhassanmahmoud/mobile-price-ran-classification-with-accuracy-83
+ WaterPotability,Potability,"MEAN,DS,fea_null,out_null,enc_null,dup_null,RF",0.681402439,0.523998976, 3276*10, https://www.kaggle.com/code/gcmadhan/water-quality-prediction-76-h2o-80-accuracy
+ Placement,status,"KNN,DS,enc_null,imp_null,out_null,dup_null,CART",0.994117647,11.33561087, 215*15, https://www.kaggle.com/code/benroshan/you-re-hired-analysis-on-campus-recruitment-data
+ Heart2020,HeartDisease,"LC,ZSB,nor_null,fea_null,out_null,dup_null,RF",0.916822569,18.05598974, 319795*18, https://www.kaggle.com/code/mushfirat/heartdisease-eda-prediction
+ FakeJob,fraudulent,"MEAN,OE,ZS,MR,out_null,dup_null,RF",0.979865772,1.222230196, 17880*18, https://www.kaggle.com/code/shivamburnwal/nlp-98-acc-eda-with-model-using-spacy-pipeline
+ CompanyBankruptcy,Bankrupt?,"IQR,fea_null,enc_null,imp_null,nor_null,dup_null,RF",0.98240866,1.492979527, 6819*96, https://www.kaggle.com/code/marto24/bankruptcy-detection
+ IRIS,species,"ZS,fea_null,enc_null,imp_null,out_null,dup_null,RF",0.983333333,0.10793519, 150*5, https://www.kaggle.com/code/gauravahujaravenclaw/iris-dataset-analysis-and-machine-learning
+ AirlinePassengerSatisfaction,satisfaction,"OE,ZS,fea_null,imp_null,out_null,dup_null,RF",0.965731937,13.09157777, 103904*25, https://www.kaggle.com/code/rajeevnair676/airline-satisfaction-xgboost-96-accuracy
+ WineQT,satisfaction,"MR,enc_null,nor_null,imp_null,out_null,dup_null,RF",0.707423581,0.173275471, 1143*13, https://www.kaggle.com/code/qusaybtoush1990/wine-quality
+ Bank,deposit,"BE,ZS,dup_null,fea_null,out_null,imp_null,LDA",0.806586147,0.309330702, 11162*17, https://www.kaggle.com/code/janiobachmann/bank-marketing-campaign-opening-a-term-deposit
+BankFull,y,"IQR,ZS,enc_null,fea_null,dup_null,imp_null,RF",0.943276706,1.369977474, 41188*21, https://www.kaggle.com/code/henriqueyamahata/bank-marketing-classification-roc-f1-recall
+ECommerceShipping,ReachedonTime,"WR,MM,enc_null,out_null,dup_null,imp_null,NB",0.688636364,0.028192997,"(10999, 12)",https://www.kaggle.com/code/santhoshtsk/ecommerce-shipping-eda-prediction
+DrugsCom,rating,"DROP,BE,ZS,fea_null,out_null,dup_null,LDA",0.323669905,11.47641563,"(161297, 7)",https://www.kaggle.com/code/harshjain123/drugs-review-sentiment
+BreastCancer,diagnosis,"ZS,out_null,fea_null,imp_null,enc_null,dup_null,NB",0.938596491,0.009020567,"(569, 6)",https://www.kaggle.com/code/sachinsharma1123/breast-cancer-preds-for-freshers-acc-946
+Drug200,Drug,"BE,out_null,fea_null,imp_null,nor_null,dup_null,LDA",0.89375,0.116932392,"(200, 6)",https://www.kaggle.com/code/caesarmario/drug-classification-w-various-ml-models
+WinequalityN,quality,"LOF,BE,nor_null,fea_null,imp_null,dup_null,RF",0.718649518,0.769969463,"(6497, 13)",https://www.kaggle.com/code/mgmarques/wines-type-and-quality-classification-exercises
+MarketingCampaign,Response,"OE,imp_null,out_null,nor_null,fea_null,dup_null,RF",0.896162528,0.23039794,"(2240, 29)",https://www.kaggle.com/code/mgmarques/wines-type-and-quality-classification-exercises
+StarTypes,Spectral Class,"IQR,OE,nor_null,dup_null,imp_null,fea_null,LDA",0.941840768,0.02706027,"(240, 7)",https://www.kaggle.com/code/parvathicg/marketing-campeign
+ChurnModelling,Exited,"OE,MM,out_null,dup_null,imp_null,fea_null,RF",0.8585,1.300327063,"(10000, 14)",https://www.kaggle.com/code/berkanacar/churn-prediction-by-selecting-from-11-tuned-models
+BankPersonalLoan,PersonalLoan,"ZSB,nor_null,fea_null,enc_null,dup_null,imp_null,RF",0.99,0.256357193,"(5000, 14)",https://www.kaggle.com/code/adityakadiwal/eda-and-personal-loan-prediction-acc-97-5
+Neo,hazardous,"ED,IQR,enc_null,nor_null,fea_null,imp_null,LDA",0.92099202,0.181002855,"(90836, 10)",https://www.kaggle.com/code/d4rklucif3r/dangerous-or-not-anai-viz
+IncomeEvaluation,income,"MR,BE,MM,imp_null,dup_null,out_null,LDA",0.839603808,0.574715853,"(32561, 15)",https://www.kaggle.com/code/prashant111/random-forest-classifier-feature-importance
+Banking,y,"IQR,OE,nor_null,fea_null,dup_null,imp_null,RF",0.944278432,2.184715509,"(45211, 17)",https://www.kaggle.com/code/fathurrs/banking-dataset-marketing-targets
+bodyPerformance,class,"ED,FE,fea_null,nor_null,out_null,imp_null,RF",0.735349011,1.396033525,"(13393, 12)",https://www.kaggle.com/code/werador/body-performance-classification-models
+Data_Cortex_Nuclear,class,"MR,enc_null,fea_null,nor_null,out_null,imp_null,RF",0.996,0.445167065,"(10000, 10)",https://www.kaggle.com/code/werador/body-performance-classification-models
+estonia-passenger-list,Survived,"FE,nor_null,enc_null,fea_null,out_null,imp_null,RF",0.909090909,0.108037472,"(989, 8)",https://www.kaggle.com/code/werador/body-performance-classification-models
+smoke_detection_iot,Fire Alarm,"DS,dup_null,enc_null,fea_null,out_null,imp_null,RF",0.999760498,2.719765663,"(62630, 16)",https://www.kaggle.com/code/werador/body-performance-classification-models
+HR Employee Attrition,Attrition,"OE,DS,MR,enc_null,fea_null,imp_null,LDA",0.87414966,0.039331198,"(1470, 35)",https://www.kaggle.com/code/werador/body-performance-classification-models
+hotel_booking,is_canceled,"IQR,fea_null,ZS,dup_null,enc_null,imp_null,RF",0.925925926,0.379801512,"(119390, 36)",https://www.kaggle.com/code/werador/body-performance-classification-models
+zoo2,class_type,"OE,nor_null,fea_null,dup_null,enc_null,imp_null,RF",0.956521739,0.081013918,"(113, 18)",https://www.kaggle.com/code/werador/body-performance-classification-models
+churn-bigml,Churn,"ZSB,OE,enc_null,dup_null,enc_null,imp_null,RF",0.952023988,0.400143147,"(3333, 20)",https
+Brain_stroke_prediction,stroke,"BE,DS,enc_null,dup_null,enc_null,imp_null,RF",0.956870612,0.380135298,"(4981, 11)",https
+Breast_Cancer,Status,"OE,MM,enc_null,dup_null,enc_null,imp_null,RF",0.920496894,0.240392685,"(4024, 16)",https
+Airlines,Delay,"OE,ZS,enc_null,dup_null,enc_null,imp_null,RF",0.693957007,63.97974825,"(539383, 9)",https
+Video_games_esrb_rating,esrb_rating,"fea_null,IQR,enc_null,dup_null,enc_null,imp_null,RF",0.886543536,0.136762857,"(1895, 34)",https
+travel insurance,Claim,"MF,OE,ZSB,dup_null,enc_null,imp_null,RF",0.98864016,2.292003155,"(63326, 11)",https
+Credit risk,default,"LOF,enc_null,out_null,dup_null,enc_null,imp_null,RF",0.991428571,0.129994631,"(2000, 5)",https
+Credit score,Credit_Score,"MEDIAN,IQR,ZS,dup_null,enc_null,imp_null,RF",0.777924032,12.60099697,"(100000, 28)",https
+diabetes-dataset,Outcome,"LOF,MM,fea_null,dup_null,enc_null,imp_null,RF",0.98,0.248999119,"(2000, 9)",https
+csgo_round_snapshots,round_winner,"OE,nor_null,fea_null,nor_null,dup_null,enc_null,RF",0.880892084,17.13754249,"(122410, 97)",https
+cirrhosis,Stage,"MEAN,ZS,fea_null,nor_null,dup_null,enc_null,RF",0.607142857,0.122019529,"(418, 20)",https
+card_transdata,fraud,"IQR,out_null,fea_null,imp_null,dup_null,enc_null,LDA",0.994332918,1.776999235,"(1000000, 8)",https
+TravelInsurancePrediction,TravelInsurance,"OE,nor_null,fea_null,imp_null,dup_null,enc_null,RF",0.834170854,0.160566807,"(1987, 10)",https
+Entrepreneurial Competency in University Students,y,"MEDIAN,OE,ZS,imp_null,dup_null,enc_null,RF",1.0,0.085291862,"(219, 17)",https
+hmeq,BAD,"OE,imp_null,IQR,imp_null,dup_null,enc_null,RF",0.957875458,0.279812098,"(5960, 13)",https
+pulsar_data_train,target_class,"MEDIAN,IQR,LC,imp_null,dup_null,enc_null,LDA",0.98545388,0.262160301,"(12528, 9)",https
+Customer Segmentation,Segmentation,"OE,DROP,IQR,MM,dup_null,enc_null,RF",0.528436019,0.499905825,"(8068, 11)",https
+HR Analysis Case Study,is_promoted,"OE,ZS,nor_null,out_null,dup_null,enc_null,RF",0.931468961,2.705006123,"(54808, 14)",https
+salary,salary,"MF,OE,MM,out_null,dup_null,enc_null,RF",0.859818824,1.862260818,"(32561, 15)",https
+Income,income_>50K,"imp_null,OE,nor_null,out_null,dup_null,enc_null,RF",0.85645933,2.53425765,"(43957, 15)",https
+music_genre,music_genre,"DROP,OE,ZS,out_null,dup_null,enc_null,RF",0.556644336,12.3941195,"(50005, 18)",https
+Skyserver,class,"IQR,nor_null,fea_null,nor_null,out_null,dup_null,RF",0.988927846,15.16933846,"(100000, 18)",https
+depressed,depressed,"IQR,ZS,dup_null,fea_null,out_null,dup_null,RF",0.860215054,0.119566917,"(1429, 23)",https
+watson_healthcare_modified,Attrition,"OE,ZS,nor_null,dup_null,out_null,dup_null,RF",0.928571429,0.191499233,"(1676, 35)",https
+Go To College,will_go_to_college,"imp_null,OE,enc_null,fea_null,dup_null,out_null,RF",0.935,0.113805771,"(1000, 11)",https
+telecom_churn,Churn,"imp_null,IQR,enc_null,fea_null,dup_null,out_null,RF",0.940345369,0.454998493,"(3333, 11)",https
+Fraud,isFlaggedFraud,"IQR,MM,enc_null,fea_null,dup_null,out_null,NB",1.0,47.14659524,"(6362620, 11)",https
+car_data,Purchased,"ED,OE,ZS,fea_null,dup_null,out_null,RF",0.92,0.111075878,"(1000, 5)",https
+student_prediction,GRADE,"ZS,enc_null,nor_null,fea_null,dup_null,out_null,RF",0.310344828,0.147984982,"(145, 33)",https
+Bank Customer Churn Prediction,churn,"OE,imp_null,nor_null,fea_null,dup_null,out_null,RF",0.8625,0.796402931,"(10000, 12)",https
+waterQuality,is_safe,"ZSB,enc_null,nor_null,fea_null,dup_null,out_null,RF",0.958046337,0.654186249,"(7999, 21)",https
+tablet,FiyatAraligi,"ZS,imp_null,enc_null,fea_null,dup_null,out_null,LDA",0.943781166,0.032942057,"(2000, 20)",https
+audit_data,Risk,"IQR,nor_null,enc_null,fea_null,dup_null,out_null,RF",1.0,0.090421438,"(776, 27)",https
+smart_grid_stability_augmented,stabf,"ZSB,nor_null,enc_null,fea_null,dup_null,out_null,RF",1.0,3.396378517,"(60000, 14)",https
+startup data,status,"IQR,MM,enc_null,fea_null,dup_null,out_null,RF",1.0,0.11602354,"(923, 49)",https
+bmi,Index,"OE,ZS,imp_null,fea_null,dup_null,out_null,RF",0.9,0.096302986,"(500, 4)",https
+Music Genre Classification,Class,"MEDIAN,OE,nor_null,fea_null,dup_null,out_null,RF",0.506111111,3.904087067,"(17996, 17)",https
+milknew,Grade,"imp_null,enc_null,MM,fea_null,dup_null,out_null,RF",1.0,0.089093924,"(1059, 8)",https
+Credit Risk Classification,label,"DROP,imp_null,nor_null,fea_null,dup_null,out_null,RF",0.816326531,0.125014067,"(1125, 13)",https
+Heart Attack Data Set,target,"IQR,enc_null,nor_null,fea_null,dup_null,out_null,RF",0.890909091,0.089013815,"(303, 14)",https
+bank-direct-marketing-campaigns,y,"OE,IQR,ZS,fea_null,dup_null,out_null,RF",0.905577173,2.02621603,"(41188, 20)",https
+Car_Insurance_Claim,OUTCOME,"MEAN,OE,IQR,ZS,dup_null,out_null,RF",0.840707965,0.564074516,"(10000, 19)",https
+Covid Dataset,COVID-19,"OE,imp_nill,fea_null,nor_null,dup_null,out_null,RF",0.984360626,0.279006958,"(5434, 21)",https
+Customertravel,Target,"OE,ZS,nor_null,nor_null,dup_null,out_null,RF",0.890052356,0.108130693,"(954, 7)",https
+employee_attrition_train,Attrition,"OE,ZS,enc_null,nor_null,dup_null,out_null,RF",0.897435897,0.156104803,"(1029, 35)",https
+Patient Survival Prediction,hospital_death,"MEAN,enc_null,fea_null,nor_null,dup_null,out_null,RF",0.92743826,22.64608622,"(91713, 84)",https
+creditcard,Class,"out_null,imp_null,ZS,fea_null,dup_null,out_null,RF",0.999543555,202.5881906,"(284807, 31)",https
+Banking Dataset Classification,y,"LC,IQR,ZS,fea_null,dup_null,out_null,RF",0.940314903,1.660810471,"(32950, 16)",https
+MY2022 Fuel Consumption Ratings,Smog Rating,"OE,ZS,dup_null,dup_null,dup_null,out_null,RF",0.731578947,0.148949862,"(946, 15)",https
+lithium-ion batteries,Crystal System,"AD,OE,ZS,dup_null,dup_null,out_null,RF",0.852941176,1.776734114,"(339, 11)",https
+ionosphere_data,column_ai,"imp_null,LC,ZS,dup_null,dup_null,out_null,NB",0.943661972,0.046926022,"(351, 35)",https
+Debernardi et al 2020 data,diagnosis,"OE,MEDIAN,ZS,dup_null,dup_null,out_null,RF",0.983050847,0.112811565,"(590, 14)",https
+Web page Phishing Detection,status,"OE,ZS,fea_null,enc_null,dup_null,out_null,RF",0.965879265,1.169764996,"(11430, 89)",https
+HR Analytics Employee Promotion Data,is_promoted,"OE,MEDIAN,LC,nor_null,dup_null,out_null,RF",0.939244663,3.508179665,"(54808, 13)",https
+Credit Card Defaulter Prediction,default,"OE,ZS,imp_null,nor_null,dup_null,out_null,RF",0.823666667,4.393324614,"(30000, 25)",https
+heart_statlog_cleveland_hungary_final,target,"ED,ZS,enc_null,nor_null,dup_null,out_null,RF",0.955156951,0.117493868,"(1190, 12)",https
+CTG,NSP,"imp_null,IQR,ZS,nor_null,dup_null,out_null,RF",0.989208633,0.179870844,"(2129, 40)",https
+CDR-Call-Details,Churn,"AD,IQR,ZS,nor_null,dup_null,out_null,RF",0.950685436,9.495403051,"(101174, 17)",https
+16P,Personality,"IQR,fea_null,fea_null,nor_null,dup_null,out_null,RF",0.97425,9.429229975,"(59999, 62)",https
+FIC,Mortality,"OE,ZS,fea_null,nor_null,dup_null,out_null,RF",1.0,0.145329714,"(368, 60)",https
+spect_train,OVERALL_DIAGNOSIS,"ZS,IQR,fea_null,nor_null,dup_null,out_null,RF",0.9375,0.145166397,"(80, 45)",https
+spect_train_binary,OVERALL_DIAGNOSIS,"imp_null,fea_null,ZS,IQR,dup_null,out_null,LDA",0.784615385,0.043535471,"(80, 23)",https
+wine,quality,"fea_null,IQR,enc_null,imp_null,dup_null,out_null,RF",0.834558824,0.189982414,"(1599, 12)",https
+phishing,class,"ZS,IQR,enc_null,imp_null,dup_null,out_null,RF",0.97195839,0.492106915,"(11054, 32)",https
+googleplaystore_reviews,Sentiment,"OE,AD,MEAN,ZS,dup_null,out_null,RF",0.984602224,6.3854568,"(64295, 5)",https
+Monkey-Pox PATIENTS,MonkeyPox,"OE,ZS,enc_null,nor_null,dup_null,out_null,LDA",0.6369,0.093076229,"(25000, 11)",https
+Bank Loan Defaulter Prediction,Loan Status,"OE,ZS,nor_null,nor_null,dup_null,out_null,LDA",0.908189735,0.804027557,"(67463, 35)",https
+Stress-Lysis,Stress Level,"AD,ZS,fea_null,nor_null,dup_null,out_null,NB",0.990024938,0.079797983,"(2001, 4)",https
+Bank marketing response predict,y,"IQR,OE,ZS,nor_null,dup_null,out_null,RF",0.786052009,0.689945459,"(12870, 17)",https
+telecom_customer_churn,Customer Status,"MEDIAN,OE,ZS,nor_null,dup_null,out_null,RF",0.811340206,0.604788542,"(7043, 36)",https
+Bank_Personal_Loan_Modelling,CreditCard,"ZS,fea_null,enc_null,nor_null,dup_null,out_null,RF",0.752,0.481125832,"(5000, 14)",https
+heart1,target,"WR,ZS,enc_null,nor_null,dup_null,out_null,LDA",0.838842975,0.027304649,"(303, 14)",https
+walmart_cleaned,Type,"ZS,nor_null,enc_null,nor_null,dup_null,out_null,RF",1.0,25.73973846,"(421570, 17)",https
+covid-liver,Alive_Dead,"OE,MEDIAN,nor_null,nor_null,dup_null,out_null,RF",0.9,0.11289525,"(450, 27)",https
+Cardiovascular Study Dataset,TenYearCHD,"OE,MF,ZS,nor_null,dup_null,out_null,RF",0.859882006,0.33899188,"(3390, 17)",https
+classification_in_asteroseismology,POP,"IQR,fea_null,nor_null,nor_null,dup_null,out_null,RF",0.977011494,0.091027975,"(1001, 4)",https
+Wine2,Customer_Segment,"imp_null,ZS,nor_null,nor_null,dup_null,out_null,NB",1.0,0.030222654,"(178, 14)",https
+covid_data_2020-2021,corona_result,"OE,ZS,nor_null,nor_null,dup_null,out_null,RF",0.920973031,1045.964322,"(5861480, 10)",https
+microbes,microorganisms,"IQR,imp_null,nor_null,nor_null,dup_null,out_null,RF",0.999449339,9.144949913,"(30527, 26)",https
+Weather,RainTomorrow,"MEDIAN,OE,ZS,nor_null,dup_null,out_null,RF",0.855166849,11.09519434,"(99516, 23)",https
+IPL_Auction_2022_FullList,Bid,"IQR,enc_null,nor_null,fea_null,dup_null,out_null,RF",1.0,0.07998395,"(590, 20)",https
+credit_card_defaulter,default,"OE,imp_null,nor_null,fea_null,dup_null,out_null,LDA",0.9735,0.027073622,"(10000, 5)",https
+riceClassification,Class,"imp_null,ZS,nor_null,fea_null,dup_null,out_null,RF",1.0,1.019708872,"(18185, 12)",https
+poker-hand-training,Poker Hand,"IQR,OE,nor_null,fea_null,dup_null,out_null,RF",0.613554578,9.082965136,"(25010, 11)",https
+applerevenue,profit or not,"ED,IQR,nor_null,fea_null,dup_null,out_null,RF",0.782634731,2.102896214,"(10559, 7)",https
+bank_customer_survey,y,"IQR,OE,ZS,fea_null,dup_null,out_null,RF",0.946240337,1.597802401,"(45211, 17)",https
+Breast Cancer Prediction,Class,"AD,ZS,dup_null,fea_null,dup_null,out_null,RF",0.99270073,2.67101717,"(683, 11)",https
+UniversalBank,CreditCard,"ZS,fea_null,dup_null,fea_null,dup_null,out_null,NB",0.768,0.022017479,"(5000, 14)",https
+new_model,Class,"ZS,imp_null,dup_null,fea_null,dup_null,out_null,RF",1.0,0.179000139,"(400, 14)",https
+df1_loan,Loan_Status,"LC,IQR,nor_null,fea_null,dup_null,out_null,NB",0.88,0.014980078,"(500, 15)",https
+Kinematics_Data,activity,"OE,ZS,dup_null,fea_null,dup_null,out_null,RF",0.992493509,7.530292034,"(88588, 11)",https
+transfusion,whether he/she donated blood in March 2007,"IQR,dup_null,imp_null,fea_null,dup_null,out_null,NB",0.848920863,0.008985043,"(748, 5)",https
+ML Marathon Dataset,deposit,"ED,OE,ZS,fea_null,dup_null,out_null,RF",0.845373134,0.620958805,"(8371, 17)",https
+Employee Satisfaction Index,satisfied,"AD,IQR,OE,fea_null,dup_null,out_null,NB",0.53,0.062999725,"(500, 14)",https
+diabetes,Outcome,"imp_null,IQR,nor_null,fea_null,dup_null,out_null,RF",0.791044776,0.109079838,"(768, 9)",https
+Social_Network_Ads,Purchased,"OE,fea_null,DS,fea_null,dup_null,out_null,RF",0.95,1.159176826,"(400, 5)",https
+glass,Type of glass,"imp_null,fea_null,ZS,fea_null,dup_null,out_null,RF",0.976744186,0.134011269,"(214, 11)",https
+Breast Cancer Coimbra Data Set,Classification,"IQR,ZS,nor_null,fea_null,dup_null,out_null,NB",0.894736842,0.029768467,"(116, 10)",https
+dementia_dataset,Group,"MF,OE,enc_null,enc_null,dup_null,out_null,RF",0.946666667,0.101015091,"(373, 15)",https
+heart_Disease,target,"AD,IQR,imp_null,fea_null,dup_null,out_null,NB",0.86440678,0.043980837,"(303, 14)",https
+tumor,Class,"ZS,nor_null,imp_null,fea_null,dup_null,out_null,RF",0.99270073,0.098855019,"(683, 11)",https
+classast - pha,class,"IQR,nor_null,fea_null,fea_null,dup_null,out_null,RF",0.993902439,0.180000067,"(1748, 12)",https
+airline_passenger_satisfaction1,satisfaction,"IQR,ED,fea_null,fea_null,dup_null,out_null,RF",0.99010619,6.279091835,"(129880, 23)",https
+airline_passenger_satisfaction2,satisfaction,"AD,OE,ZS,fea_null,dup_null,out_null,RF",0.961712088,8.870998383,"(60001, 23)",https
+WA_Fn-UseC_-HR-Employee-Attrition,Attrition,"IQR,OE,ZS,fea_null,dup_null,out_null,RF",0.87826087,0.678993464,"(1470, 35)",https
+WA_Fn-UseC_-HR-Employee-Education,Education,"ED,OE,MM,fea_null,dup_null,out_null,RF",0.408163265,0.245427608,"(1470, 35)",https
+WA_Fn-UseC_-HR-Employee-EnvironmentSatisfaction,EnvironmentSatisfaction,"fea_null,ZS,nor_null,fea_null,dup_null,out_null,NB",0.30952381,0.028998613,"(1470, 35)",https
+WA_Fn-UseC_-HR-Employee-JobSatisfaction,JobSatisfaction,"IQR,ZS,nor_null,fea_null,dup_null,out_null,NB",0.339055794,0.035039425,"(1470, 35)",https
+TagMyBook,rating,"ED,OE,ZS,fea_null,dup_null,out_null,RF",0.527687296,0.329494476,"(1534, 7)",https
+customerTargeting,target,"ZS,imp_null,nor_null,fea_null,dup_null,out_null,RF",0.570241692,2.002466679,"(6620, 71)",https
+telecom_churn2,Churn,"IQR,ZS,nor_null,fea_null,dup_null,out_null,RF",0.944707741,0.280326128,"(3333, 11)",https
+ParisHousingClass,category,"IQR,enc_null,ZS,fea_null,dup_null,out_null,RF",1.0,2.185753822,"(10000, 18)",https
+ParisHousingClass99.88,category,"imp_null,enc_null,MM,fea_null,dup_null,out_null,RF",1.0,0.586894274,"(10000, 18)",https
+diabetes_data_upload,class,"OE,DS,MM,fea_null,dup_null,out_null,RF",1.0,0.15101552,"(520, 17)",https
+Loan Prediction with 3 Problem Statement,Loan_Status,"IQR,OE,ZS,fea_null,dup_null,out_null,NB",0.890410959,0.02498436,"(614, 13)",https
+tic-tac-toe-endgame,V10,"OE,LOF,nor_null,fea_null,dup_null,out_null,RF",0.964788732,0.111092806,"(958, 10)",https
+Star1,class,"IQR,enc_null,ZS,fea_null,dup_null,out_null,RF",0.977186312,0.199003696,"(1388, 18)",https
+Star2,class,"ED,IQR,MM,fea_null,dup_null,out_null,RF",0.971291866,0.662076473,"(5416, 18)",https
+Star3,class,"IQR,ZS,nor_null,fea_null,dup_null,out_null,RF",0.976628895,1.219997168,"(7568, 18)",https
+airline_passenger_satisfaction3,satisfaction,"OE,ZS,nor_null,fea_null,dup_null,out_null,RF",0.939965695,0.366057158,"(5855, 23)",https
+airline_passenger_satisfaction4,satisfaction,"imp_null,OE,ZS,fea_null,dup_null,out_null,RF",0.93255132,0.172996759,"(1708, 23)",https
+Airlines1,Delay,"FE,ZS,enc_null,dup_null,enc_null,imp_null,NB",0.825,0.01703763,"(999, 9)",https
+Airlines2,Delay,"OE,ZS,enc_null,dup_null,enc_null,imp_null,RF",0.699075231,1.671994925,"(20001, 9)",https
+Airlines3,Delay,"FE,ZS,enc_null,dup_null,enc_null,imp_null,LDA",0.628125,0.034630537,"(6001, 9)",https
+Bank Customer Churn Prediction1,churn,"OE,ZS,nor_null,fea_null,dup_null,out_null,RF",0.849593496,0.150008678,"(1227, 12)",https
+Bank Customer Churn Prediction2,churn,"OE,imp_null,nor_null,fea_null,dup_null,out_null,RF",0.85078534,0.318803787,"(3820, 12)",https
+Bank Loan Defaulter Prediction1,Loan Status,"fea_null,ZS,nor_null,nor_null,dup_null,out_null,RF",0.910828025,0.17040658,"(783, 35)",https
+Bank Loan Defaulter Prediction2,Loan Status,"fea_null,ZS,nor_null,nor_null,dup_null,out_null,RF",0.923684211,0.419849157,"(1898, 35)",https
+Bank Loan Defaulter Prediction3,Loan Status,"OE,ZS,nor_null,nor_null,dup_null,out_null,RF",0.917808219,0.614867687,"(3648, 35)",https
+Bank Loan Defaulter Prediction4,Loan Status,"OE,ZS,nor_null,nor_null,dup_null,out_null,NB",0.930555556,0.033791542,"(360, 35)",https
+Bank Loan Defaulter Prediction5,Loan Status,"LC,OE,ZS,nor_null,dup_null,out_null,NB",0.919421488,0.060494184,"(4838, 35)",https
+Banking Dataset Classification1,y,"OE,out_null,nor_null,fea_null,dup_null,out_null,RF",0.957142857,0.083918095,"(346, 16)",https
+Banking Dataset Classification2,y,"OE,IQR,ZS,fea_null,dup_null,out_null,LDA",0.938075379,0.059955597,"(3987, 16)",https
+Banking Dataset Classification3,y,"OE,IQR,ZS,fea_null,dup_null,out_null,RF",0.936507937,0.119660854,"(1124, 16)",https
+bodyPerformance1,class,"MR,enc_null,nor_null,out_null,dup_null,imp_null,RF",0.622641509,0.175078392,"(1058, 12)",https
+bodyPerformance2,class,"BE,LOF,nor_null,out_null,dup_null,imp_null,RF",0.715163934,0.703485966,"(5128, 12)",https
+bodyPerformance3,class,"MR,ZS,nor_null,out_null,dup_null,imp_null,LDA",0.612908962,0.024004221,"(188, 12)",https
+Breast_Cancer1,Status,"OE,out_null,enc_null,dup_null,enc_null,imp_null,LDA",0.894302177,0.022808313,"(1952, 16)",https
+Breast_Cancer2,Status,"OE,LOF,nor_null,out_null,dup_null,imp_null,RF",0.93081761,0.119819641,"(1041, 16)",https
+Breast_Cancer3,Status,"OE,LOF,nor_null,out_null,dup_null,imp_null,RF",1.0,0.083788157,"(251, 16)",https
+Car_Insurance_Claim1,OUTCOME,"MEAN,OE,IQR,ZS,dup_null,imp_null,RF",0.852941176,0.129513741,"(453, 19)",https
+Car_Insurance_Claim2,OUTCOME,"MEAN,OE,IQR,out_null,dup_null,imp_null,LDA",0.840948231,0.03480649,"(1481, 19)",https
+Car_Insurance_Claim3,OUTCOME,"MEAN,OE,MM,fea_null,dup_null,out_null,RF",0.841836735,0.174798727,"(1960, 19)",https
+Car_Insurance_Claim4,OUTCOME,"MEAN,OE,IQR,ZS,dup_null,imp_null,RF",0.845896147,0.2503829,"(3315, 19)",https
+Car_Insurance_Claim5,OUTCOME,"MEAN,OE,IQR,ZS,dup_null,imp_null,RF",0.832116788,0.131996155,"(753, 19)",https
+CDR-Call-Details1,Churn,"imp_null,IQR,ZS,nor_null,dup_null,out_null,NB",0.942857143,0.020637751,"(280, 17)",https
+CDR-Call-Details2,Churn,"AD,IQR,ZS,nor_null,dup_null,out_null,RF",0.913043478,2.209801197,"(1183, 17)",https
+CDR-Call-Details3,Churn,"imp_null,IQR,ZS,nor_null,dup_null,out_null,RF",0.917333333,0.236565828,"(3173, 17)",https
+Credit score1,Credit_Score,"MEDIAN,IQR,ZS,nor_null,dup_null,out_null,RF",0.8125,0.094896793,"(237, 28)",https
+Credit score2,Credit_Score,"MEDIAN,IQR,ZS,nor_null,dup_null,out_null,RF",0.848101266,0.140179634,"(1150, 28)",https
+Credit score3,Credit_Score,"MEDIAN,IQR,nor_null,nor_null,dup_null,out_null,RF",0.815686275,0.170170069,"(1649, 28)",https
+Credit score4,Credit_Score,"MF,AD,DS,nor_null,dup_null,out_null,RF",0.741518578,2.609708548,"(3094, 28)",https
+csgo_round_snapshots1,round_winner,"OE,ZS,fea_null,nor_null,dup_null,out_null,RF",0.923076923,0.146207333,"(257, 97)",https
+csgo_round_snapshots2,round_winner,"IQR,OE,fea_null,nor_null,dup_null,out_null,RF",0.948529412,0.113459587,"(765, 97)",https
+csgo_round_snapshots3,round_winner,"ZS,OE,fea_null,nor_null,dup_null,out_null,RF",0.951492537,0.227694035,"(1340, 97)",https
+csgo_round_snapshots4,round_winner,"OE,ZS,fea_null,nor_null,dup_null,out_null,RF",0.919908467,0.288179636,"(2185, 97)",https
+csgo_round_snapshots5,round_winner,"OE,ZS,fea_null,nor_null,dup_null,out_null,RF",0.9375,0.155148029,"(398, 97)",https
+customerTargeting1,target,"LC,ED,fea_null,nor_null,dup_null,out_null,NB",0.64,0.103357792,"(248, 71)",https
+customerTargeting2,target,"IQR,DS,fea_null,dup_null,dup_null,out_null,RF",0.564102564,0.230277777,"(864, 71)",https
+customerTargeting3,target,"IQR,imp_null,fea_null,nor_null,dup_null,out_null,RF",0.550847458,0.315285444,"(1368, 71)",https
+customerTargeting4,target,"IQR,DS,fea_null,dup_null,dup_null,out_null,NB",0.572864322,0.050160885,"(1149, 71)",https
+customerTargeting5,target,"IQR,DS,fea_null,dup_null,dup_null,out_null,RF",0.53968254,0.159820795,"(368, 71)",https

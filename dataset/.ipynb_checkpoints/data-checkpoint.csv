@@ -1,0 +1,301 @@
+0,1,2,3,4,5,6,type,DatasetName,Target,size0,size1,target0,target1,target2,target3,target4,target5,target6
+891.0,247.75,0.416666657,0.166666672,0.016554432,0.619682491,4.674246311,0,Titanic,Survived,891,12,MEDIAN,OE,nor_null,MR,dup_null,out_null,NB
+303.0,28.5714283,0.0,0.0,0.0,0.3655487,0.106976688,0,HeartAttack,output,303,14,imp_null,enc_null,MM,fea_null,dup_null,IQR,RF
+5110.0,802.833313,0.416666657,0.083333336,0.003277886,1.053489804,2.565570354,0,Stroke,stroke,5111,12,imp_null,enc_null,MM,fea_null,dup_null,out_null,RF
+615.0,249.8571472,0.142857149,0.071428575,0.003600464,3.273256063,39.53497314,0,HepatitisCdata,Category,615,14,DROP,enc_null,nor_null,fea_null,dup_null,out_null,NB
+918.0,44.16666794,0.416666657,0.0,0.0,0.060771972,-0.187610582,0,Heart,HeartDisease,918,12,imp_null,OE,nor_null,fea_null,dup_null,out_null,RF
+100000.0,52801.77734,0.055555556,0.055555556,0.0,-52.08705139,16531.24414,0,Star,class,100000,18,imp_null,enc_null,nor_null,fea_null,dup_null,IQR,RF
+17442.0,36.0,0.142857149,0.0,0.0,0.142466024,-1.172814131,0,Acoustic,STATUS,17442,7,imp_null,OE,MM,fea_null,dup_null,out_null,RF
+145460.0,350.0,0.304347813,0.0,0.093137823,0.781492412,9.519240379,0,WeatherAUS,RainTomorrow,145460,23,MEAN,OE,nor_null,fea_null,dup_null,out_null,RF
+2000.0,249.5238037,0.0,0.0,0.0,0.060191438,-1.224647284,0,MobilePrice,price_range,2000,21,imp_null,enc_null,nor_null,fea_null,dup_null,ZSB,LDA
+3276.0,2805.5,0.0,0.600000024,0.043772895,0.120983735,0.116229855,0,WaterPotability,Potability,3276,10,MEAN,enc_null,DS,fea_null,dup_null,out_null,RF
+215.0,58.20000076,0.533333361,0.06666667,0.020775193,0.280403554,0.232305527,0,Placement,status,215,15,MF,OE,ZS,fea_null,dup_null,out_null,RF
+319795.0,207.6666718,0.777777791,0.0,0.0,1.613833904,5.086988449,0,Heart20,HeartDisease,319795,18,imp_null,enc_null,nor_null,LC,dup_null,ZSB,RF
+17880.0,3851.277832,0.722222209,0.055555556,0.0,0.10766387,1.476902604,0,FakeJob,fraudulent,17880,18,MEAN,OE,ZS,MR,dup_null,out_null,RF
+6819.0,4728.21875,0.0,0.260416657,0.0,9.30688858,1312.55481,0,CompanyBankruptcy,Bankrupt?,6819,96,imp_null,enc_null,nor_null,fea_null,dup_null,IQR,RF
+150.0,25.20000076,0.200000003,0.0,0.0,0.053900551,-0.902618587,0,IRIS,species,150,5,imp_null,enc_null,ZS,fea_null,dup_null,out_null,RF
+103904.0,8507.240234,0.200000003,0.079999998,0.000119341,0.524682283,6.986422062,0,AirlinePassengerSatisfaction,satisfaction,103904,25,imp_null,OE,ZS,fea_null,dup_null,out_null,RF
+1143.0,190.6923065,0.0,0.07692308,0.0,1.487923503,7.460064411,0,WineQT,satisfaction,1143,13,imp_null,enc_null,nor_null,MR,dup_null,out_null,RF
+11162.0,348.7058716,0.588235319,0.0,0.0,2.135874033,21.30196953,0,Bank,deposit,11162,17,imp_null,BE,ZS,fea_null,dup_null,out_null,LDA
+41188.0,102.0476227,0.523809552,0.0,0.0,0.495827585,4.630690098,0,BankFull,y,41188,21,imp_null,enc_null,ZS,fea_null,dup_null,IQR,RF
+10999.0,1278.916626,0.333333343,0.083333336,0.0,0.100295663,-0.445992142,0,ECommerceShipping,ReachedonTime,10999,12,imp_null,enc_null,MM,WR,dup_null,out_null,NB
+161297.0,40275.0,0.571428597,0.142857149,0.0,0.655057728,8.159602165,0,DrugsCom,rating,161297,7,DROP,BE,ZS,fea_null,dup_null,out_null,LDA
+569.0,412.0,0.0,0.0,0.0,0.692845643,0.892920196,0,BreastCancer,diagnosis,569,6,imp_null,enc_null,ZS,fea_null,dup_null,out_null,NB
+200.0,44.5,0.666666687,0.0,0.0,0.273704499,-1.302540183,0,Drug200,Drug,200,6,imp_null,BE,nor_null,fea_null,dup_null,out_null,LDA
+6497.0,205.1538391,0.07692308,0.0,0.000449912,1.077720404,6.753901005,0,WinequalityN,quality,6497,13,imp_null,BE,nor_null,fea_null,dup_null,LOF,RF
+2240.0,248.620697,0.103448279,0.034482758,0.000369458,2.044702053,14.12511253,0,MarketingCampaign,Response,2240,29,imp_null,OE,nor_null,fea_null,dup_null,out_null,RF
+240.0,130.2857208,0.285714298,0.0,0.0,0.621194482,0.341263711,0,StarTypes,Spectral Class,240,7,imp_null,OE,nor_null,fea_null,dup_null,IQR,LDA
+10000.0,2847.785645,0.214285716,0.142857149,0.0,0.168787926,-0.873274148,0,ChurnModelling,Exited,10000,14,imp_null,OE,MM,fea_null,dup_null,out_null,RF
+5000.0,442.3571472,0.0,0.071428575,0.0,0.135972708,36.14115524,0,BankPersonalLoan,PersonalLoan,5000,14,imp_null,enc_null,nor_null,fea_null,dup_null,ZSB,RF
+90836.0,24112.80078,0.200000003,0.0,0.0,8.707779884,803.8143311,0,Neo,hazardous,90836,10,imp_null,enc_null,nor_null,fea_null,ED,IQR,LDA
+32561.0,1476.400024,0.600000024,0.0,0.0,0.804762781,13.33263683,0,IncomeEvaluation,income,32561,15,imp_null,BE,MM,MR,dup_null,out_null,LDA
+45211.0,561.3529663,0.588235319,0.0,0.0,4.210106373,280.1611633,0,Banking,y,45211,17,imp_null,OE,nor_null,fea_null,dup_null,IQR,RF
+13393.0,336.4166565,0.166666672,0.0,0.0,0.023374341,2.564869404,0,bodyPerformance,class,13393,12,imp_null,FE,nor_null,fea_null,ED,out_null,RF
+1080.0,1010.707336,0.060975611,0.280487806,0.015763326,0.740776598,4.159952164,0,Data_Cortex_Nuclear,class,10000,10,imp_null,enc_null,nor_null,MR,dup_null,out_null,RF
+989.0,338.75,0.625,0.0,0.0,0.019439846,-0.694370687,0,estonia-passenger-list,Survived,989,8,imp_null,FE,nor_null,fea_null,dup_null,out_null,RF
+62630.0,12328.375,0.0,0.125,0.0,4.812625885,84.9263916,0,smoke_detection_iot,Fire Alarm,62630,16,imp_null,enc_null,DS,fea_null,dup_null,out_null,RF
+1470.0,157.3142853,0.257142872,0.028571429,0.0,0.415826946,-0.009963999,0,HR Employee Attrition,Attrition,1470,35,imp_null,OE,DS,MR,dup_null,out_null,LDA
+119390.0,9372.527344,0.444444448,0.027777778,0.029999021,4.016030788,161.4666748,0,hotel_booking,is_canceled,119390,36,imp_null,enc_null,ZS,fea_null,dup_null,IQR,RF
+113.0,8.611110687,0.055555556,0.055555556,0.0,0.497366279,-0.032575052,0,zoo2,class_type,113,18,imp_null,OE,nor_null,fea_null,dup_null,out_null,RF
+3333.0,497.2000122,0.150000006,0.0,0.0,0.493346989,0.552823246,0,churn-bigml,Churn,3333,20,imp_null,OE,nor_null,fea_null,dup_null,ZSB,RF
+4981.0,396.4545593,0.454545468,0.0,0.0,1.167441845,2.502254486,0,Brain_stroke_prediction,stroke,4981,11,imp_null,BE,DS,fea_null,dup_null,out_null,RF
+4024.0,24.0625,0.6875,0.0,0.0,-0.153173208,4.40458107,0,Breast_Cancer,Status,4024,16,imp_null,OE,MM,fea_null,dup_null,out_null,RF
+539383.0,60904.22266,0.333333343,0.111111112,0.0,0.256184101,-0.727402687,0,Airlines,Delay,539383,9,imp_null,OE,ZS,fea_null,dup_null,out_null,RF
+1895.0,57.73529434,0.05882353,0.029411765,0.0,4.288556576,23.27809334,0,Video_games_esrb_rating,esrb_rating,1895,34,imp_null,enc_null,nor_null,fea_null,dup_null,IQR,RF
+63326.0,265.2727356,0.636363626,0.0,0.0,2.880742073,108.4052048,0,travel insurance,Claim,63326,11,MF,OE,nor_null,fea_null,dup_null,ZSB,RF
+2000.0,1600.0,0.0,0.600000024,0.0003,0.466483414,0.010192871,0,Credit risk,default,2000,5,imp_null,enc_null,nor_null,fea_null,dup_null,LOF,RF
+100000.0,18018.57227,0.714285731,0.071428575,0.006059643,1.667370915,15.1070509,0,Credit score,Credit_Score,100000,28,MEDIAN,enc_null,ZS,fea_null,dup_null,IQR,RF
+2000.0,137.8888855,0.0,0.0,0.0,0.562159121,2.221150637,0,diabetes-dataset,Outcome,2000,9,imp_null,enc_null,MM,fea_null,dup_null,LOF,RF
+122410.0,163.7113342,0.020618556,0.0,0.0,24.82571602,4777.139648,0,csgo_round_snapshots,round_winner,122410,97,imp_null,OE,nor_null,fea_null,dup_null,out_null,RF
+418.0,135.75,0.349999994,0.050000001,0.072846897,1.261688471,3.379037857,0,cirrhosis,Stage,418,20,MEAN,enc_null,ZS,fea_null,dup_null,out_null,RF
+1000000.0,375001.25,0.0,0.375,0.0,19.78594589,6094.043457,0,card_transdata,fraud,1000000,8,imp_null,enc_null,nor_null,fea_null,dup_null,IQR,LDA
+1987.0,204.8000031,0.400000006,0.100000001,0.0,0.254342407,-0.475578219,0,TravelInsurancePrediction,TravelInsurance,1987,10,imp_null,OE,nor_null,fea_null,dup_null,out_null,RF
+219.0,6.823529243,0.470588237,0.0,0.0,-0.20955947,-0.450461596,0,Entrepreneurial Competency in University Students,y,219,17,MEDIAN,OE,ZS,fea_null,dup_null,out_null,RF
+5960.0,1631.076904,0.15384616,0.0,0.061177079,2.178364038,13.02533627,0,hmeq,BAD,5960,13,imp_null,OE,nor_null,fea_null,dup_null,IQR,RF
+12528.0,9558.555664,0.0,0.111111112,0.031378601,2.123589039,9.717803001,0,pulsar_data_train,target_class,12528,9,MEDIAN,enc_null,nor_null,LC,dup_null,IQR,LDA
+8068.0,744.9091187,0.636363626,0.090909094,0.013115788,0.082560651,-0.671529353,0,Customer Segmentation,Segmentation,8068,11,DROP,OE,MM,fea_null,dup_null,IQR,RF
+54808.0,3929.928467,0.357142866,0.071428575,0.005374606,1.167238832,4.206077099,0,HR Analysis Case Study,is_promoted,54808,14,imp_null,OE,ZS,fea_null,dup_null,out_null,RF
+32561.0,1476.400024,0.600000024,0.0,0.0,0.804762781,13.33263683,0,salary,salary,32561,15,MF,OE,MM,fea_null,dup_null,out_null,RF
+43957.0,1810.199951,0.533333361,0.0,0.0,0.881232202,13.29917908,0,Income,income_>50K,43957,15,imp_null,OE,nor_null,fea_null,dup_null,out_null,RF
+50005.0,10470.66699,0.388888896,0.0,6.11e-05,0.380014032,6.324061871,0,music_genre,music_genre,50005,18,DROP,OE,ZS,fea_null,dup_null,out_null,RF
+100000.0,50537.39063,0.055555556,0.055555556,0.0,0.533488929,2.049994469,0,Skyserver,class,100000,18,imp_null,enc_null,nor_null,fea_null,dup_null,IQR,RF
+1429.0,308.0,0.0,0.043478262,0.000608513,0.897940278,1.443057179,0,depressed,depressed,1429,23,imp_null,enc_null,ZS,fea_null,dup_null,IQR,RF
+1676.0,163.0857086,0.257142872,0.028571429,0.0,0.443106472,0.055673044,0,watson_healthcare_modified,Attrition,1676,35,imp_null,OE,ZS,fea_null,dup_null,out_null,RF
+1000.0,150.8181763,0.454545468,0.0,0.0,-0.021789044,-1.106899738,0,Go To College,will_go_to_college,1000,11,imp_null,OE,nor_null,fea_null,dup_null,out_null,RF
+3333.0,363.7272644,0.0,0.0,0.0,0.266894519,0.819623053,0,telecom_churn,Churn,3333,11,imp_null,enc_null,nor_null,fea_null,dup_null,IQR,RF
+6362619.5,2371995.25,0.272727281,0.0,0.0,67.35055542,36554.58594,0,Fraud,isFlaggedFraud,6362620,11,imp_null,enc_null,MM,fea_null,dup_null,IQR,NB
+1000.0,259.3999939,0.200000003,0.200000003,0.0,0.202281192,-1.235203862,0,car_data,Purchased,1000,5,imp_null,OE,ZS,fea_null,ED,out_null,RF
+145.0,8.151515007,0.030303031,0.030303031,0.0,0.538058698,0.140823528,0,student_prediction,GRADE,145,33,imp_null,enc_null,ZS,fea_null,dup_null,out_null,RF
+10000.0,2244.75,0.166666672,0.083333336,0.0,0.198756769,-0.818783283,0,Bank Customer Churn Prediction,churn,10000,12,imp_null,OE,nor_null,fea_null,dup_null,out_null,RF
+7999.0,532.8095093,0.095238097,0.0,0.0,0.595039845,-0.369464457,0,waterQuality,is_safe,7999,21,imp_null,enc_null,nor_null,fea_null,dup_null,ZSB,RF
+2000.0,260.6000061,0.400000006,0.0,0.000425,0.172680229,-1.267650008,0,tablet,FiyatAraligi,2000,20,imp_null,enc_null,ZS,fea_null,dup_null,out_null,LDA
+776.0,144.2962952,0.037037037,0.0,4.77e-05,6.965494633,111.0594177,0,audit_data,Risk,776,27,imp_null,enc_null,nor_null,fea_null,dup_null,IQR,RF
+60000.0,22143.0,0.071428575,0.0,0.0,-0.040595647,-1.155133605,0,smart_grid_stability_augmented,stabf,60000,14,imp_null,enc_null,nor_null,fea_null,dup_null,ZSB,RF
+923.0,219.5306091,0.285714298,0.020408163,0.006721649,2.076718807,26.91487122,0,startup data,status,923,49,imp_null,enc_null,MM,fea_null,dup_null,IQR,RF
+500.0,44.5,0.25,0.0,0.0,-0.261819184,-1.087561131,0,bmi,Index,500,4,imp_null,OE,ZS,fea_null,dup_null,out_null,RF
+17996.0,4433.353027,0.117647059,0.0,0.022289265,0.077777624,3.064590216,0,Music Genre Classification,Class,17996,17,MEDIAN,OE,nor_null,fea_null,dup_null,out_null,RF
+1059.0,6.625,0.125,0.0,0.0,-0.036595315,-0.192019343,0,milknew,Grade,1059,8,imp_null,enc_null,MM,fea_null,dup_null,out_null,RF
+1125.0,165.3076935,0.0,0.07692308,0.010188034,0.066568956,2.920023441,0,Credit Risk Classification,label,1125,13,DROP,enc_null,nor_null,fea_null,dup_null,out_null,RF
+303.0,28.5714283,0.0,0.0,0.0,0.3655487,0.106976688,0,Heart Attack Data Set,target,303,14,imp_null,enc_null,nor_null,fea_null,dup_null,IQR,RF
+41188.0,29.95000076,0.550000012,0.0,0.0,0.357461929,3.849827528,0,bank-direct-marketing-campaigns,y,41188,20,imp_null,OE,ZS,fea_null,dup_null,IQR,RF
+10000.0,1006.263184,0.421052635,0.052631579,0.010205263,0.803261697,1.895613074,0,Car_Insurance_Claim,OUTCOME,10000,19,MEAN,OE,ZS,fea_null,dup_null,IQR,RF
+5434.0,1.90476191,1.0,0.0,0.0,-0.243617564,-1.41522336,0,Covid Dataset,COVID-19,5434,21,imp_null,OE,nor_null,fea_null,dup_null,out_null,RF
+954.0,4.142857075,0.571428597,0.0,0.0,0.50881952,-1.171826482,0,Customertravel,Target,954,7,imp_null,OE,ZS,fea_null,dup_null,out_null,RF
+1029.0,116.0285721,0.257142872,0.028571429,0.007163681,0.404670209,-0.06977699,0,employee_attrition_train,Attrition,1029,35,imp_null,OE,ZS,fea_null,dup_null,out_null,RF
+91713.0,2845.273926,0.083333336,0.023809524,0.02485458,1.2605021,42.30365372,0,Patient Survival Prediction,hospital_death,91713,84,MEAN,enc_null,nor_null,fea_null,dup_null,out_null,RF
+284807.0,254062.0938,0.0,0.0,0.0,0.725344956,153.1567688,0,creditcard,Class,284807,31,imp_null,enc_null,ZS,fea_null,dup_null,out_null,RF
+32950.0,104.5,0.6875,0.0,0.0,0.805279553,6.370141029,0,Banking Dataset Classification,y,32950,16,imp_null,enc_null,ZS,LC,dup_null,IQR,RF
+946.0,102.1999969,0.333333343,0.0,0.0,0.366808832,0.854656935,0,MY2022 Fuel Consumption Ratings,Smog Rating,946,15,imp_null,OE,ZS,fea_null,dup_null,out_null,RF
+339.0,168.7272797,0.363636374,0.181818187,0.0,0.180810496,-0.075455189,0,lithium-ion batteries,Crystal System,339,11,imp_null,OE,ZS,fea_null,AD,out_null,RF
+351.0,232.8571472,0.028571429,0.0,0.0,-0.567946613,0.293040127,0,ionosphere_data,column_ai,351,35,imp_null,enc_null,ZS,LC,dup_null,out_null,NB
+590.0,226.0714264,0.428571433,0.071428575,0.063438252,1.572710276,12.02712917,0,Debernardi et al 2020 data,diagnosis,590,14,MEDIAN,OE,ZS,fea_null,dup_null,out_null,RF
+11430.0,426.9550476,0.02247191,0.0,0.0,9.126180649,296.4020691,0,Web page Phishing Detection,status,11430,89,imp_null,OE,ZS,fea_null,dup_null,out_null,RF
+54808.0,4232.077148,0.384615391,0.07692308,0.005788038,1.209341049,4.653911591,0,HR Analytics Employee Promotion Data,is_promoted,54808,13,MEDIAN,OE,nor_null,LC,dup_null,out_null,RF
+30000.0,8184.200195,0.159999996,0.039999999,0.0,4.904323101,133.2974854,0,Credit Card Defaulter Prediction,default,30000,25,imp_null,OE,ZS,fea_null,dup_null,out_null,RF
+1190.0,44.16666794,0.0,0.0,0.0,0.069106922,-0.216031805,0,heart_statlog_cleveland_hungary_final,target,1190,12,imp_null,enc_null,ZS,fea_null,ED,out_null,RF
+2129.0,154.1000061,0.075000003,0.0,0.001139032,2.112089157,14.64232445,0,CTG,NSP,2129,40,imp_null,enc_null,ZS,fea_null,dup_null,IQR,RF
+101174.0,1369.470581,0.05882353,0.0,0.0,9.924954414,188.896225,0,CDR-Call-Details,Churn,101174,17,imp_null,enc_null,ZS,fea_null,AD,IQR,RF
+59999.0,973.7096558,0.016129032,0.016129032,0.0,0.00995739,0.77447015,0,16P,Personality,59999,62,imp_null,enc_null,nor_null,fea_null,dup_null,IQR,RF
+368.0,16.18333244,0.300000012,0.0,0.0,0.687212646,6.723867416,0,FIC,Mortality,368,60,imp_null,OE,ZS,fea_null,dup_null,out_null,RF
+80.0,25.08888817,0.0,0.0,0.0,-1.585088134,5.524436951,0,spect_train,OVERALL_DIAGNOSIS,80,45,imp_null,enc_null,ZS,fea_null,dup_null,IQR,RF
+80.0,2.0,0.0,0.0,0.0,1.469874978,0.811876535,0,spect_train_binary,OVERALL_DIAGNOSIS,80,23,imp_null,enc_null,ZS,fea_null,dup_null,IQR,LDA
+1599.0,121.25,0.083333336,0.0,0.0,1.531245828,7.451140881,0,wine,quality,1599,12,imp_null,enc_null,nor_null,fea_null,dup_null,IQR,RF
+11054.0,347.625,0.0,0.03125,0.0,-0.773525238,1.113117456,0,phishing,class,11054,32,imp_null,enc_null,ZS,fea_null,dup_null,IQR,RF
+64295.0,7791.799805,0.600000024,0.0,0.167123407,-0.402086824,-0.411925793,0,googleplaystore_reviews,Sentiment,64295,5,MEAN,OE,ZS,fea_null,AD,out_null,RF
+25000.0,2274.727295,0.272727281,0.090909094,0.0,-0.05233958,-1.840869546,0,Monkey-Pox PATIENTS,MonkeyPox,25000,11,imp_null,OE,ZS,fea_null,dup_null,out_null,LDA
+67463.0,24234.40039,0.257142872,0.028571429,0.0,2.759441853,35.164814,0,Bank Loan Defaulter Prediction,Loan Status,67463,35,imp_null,OE,ZS,fea_null,dup_null,out_null,LDA
+2001.0,1051.5,0.0,0.5,0.0,-0.047025353,-1.227230549,0,Stress-Lysis,Stress Level,2001,4,imp_null,enc_null,ZS,fea_null,AD,out_null,NB
+12870.0,1043.411743,0.588235319,0.05882353,0.0,2.016480684,22.28737068,0,Bank marketing response predict,y,12870,17,imp_null,OE,ZS,fea_null,dup_null,IQR,RF
+7043.0,1071.166626,0.583333313,0.027777778,0.008708411,0.451125562,0.448871493,0,telecom_customer_churn,Customer Status,7043,36,MEDIAN,OE,ZS,fea_null,dup_null,out_null,RF
+5000.0,442.3571472,0.0,0.071428575,0.0,0.135971755,36.14115524,0,Bank_Personal_Loan_Modelling,CreditCard,5000,14,imp_null,enc_null,ZS,fea_null,dup_null,out_null,RF
+303.0,28.5714283,0.0,0.0,0.0,0.3655487,0.106976688,0,heart1,target,303,14,imp_null,enc_null,ZS,WR,dup_null,out_null,LDA
+421570.0,46937.64844,0.05882353,0.05882353,0.0,3.247954369,42.43370819,0,walmart_cleaned,Type,421570,17,imp_null,enc_null,ZS,fea_null,dup_null,out_null,RF
+450.0,33.11111069,0.666666687,0.0,0.108065844,-0.577089548,8.129849434,0,covid-liver,Alive_Dead,450,27,MEDIAN,OE,nor_null,fea_null,dup_null,out_null,RF
+3390.0,326.6470642,0.117647059,0.05882353,0.008849557,2.334051132,16.23984718,0,Cardiovascular Study Dataset,TenYearCHD,3390,17,MF,OE,ZS,fea_null,dup_null,out_null,RF
+1001.0,538.25,0.0,0.0,0.0,0.714850068,1.59198463,0,classification_in_asteroseismology,POP,1001,4,imp_null,enc_null,nor_null,fea_null,dup_null,IQR,RF
+178.0,91.35713959,0.0,0.0,0.0,0.332830131,-0.088223584,0,Wine2,Customer_Segment,178,14,imp_null,enc_null,ZS,fea_null,dup_null,out_null,NB
+5861480.0,39.59999847,0.5,0.0,0.0,3.763348103,33.69463348,0,covid_data_2020-2021,corona_result,5861480,10,imp_null,OE,ZS,fea_null,dup_null,out_null,RF
+30527.0,2016.730713,0.03846154,0.03846154,0.0,1.890488148,33.15027237,0,microbes,microorganisms,30527,26,imp_null,enc_null,nor_null,fea_null,dup_null,IQR,RF
+99516.0,4520.304199,0.260869563,0.043478262,0.089155428,0.762660563,9.480064392,0,Weather,RainTomorrow,99516,23,MEDIAN,OE,ZS,fea_null,dup_null,out_null,RF
+590.0,64.55000305,0.600000024,0.0,0.0,1.127683401,3.243549347,0,IPL_Auction_2022_FullList,Bid,590,20,imp_null,enc_null,nor_null,fea_null,dup_null,IQR,RF
+10000.0,5901.200195,0.400000006,0.400000006,0.0,1.284975886,4.287474632,0,credit_card_defaulter,default,10000,5,imp_null,OE,nor_null,fea_null,dup_null,out_null,LDA
+18185.0,13291.66699,0.0,0.416666657,0.0,-0.207939997,-0.021002561,0,riceClassification,Class,18185,12,imp_null,enc_null,ZS,fea_null,dup_null,out_null,RF
+25010.0,8.636363983,0.0,0.0,0.0,0.206452861,-0.181645915,0,poker-hand-training,Poker Hand,25010,11,imp_null,OE,nor_null,fea_null,dup_null,IQR,RF
+10559.0,6725.714355,0.142857149,0.142857149,0.0,2.10400629,5.770754337,0,applerevenue,profit or not,10559,7,imp_null,enc_null,nor_null,fea_null,ED,IQR,RF
+45211.0,561.3529663,0.529411793,0.0,0.0,4.210106373,280.1611633,0,bank_customer_survey,y,45211,17,imp_null,OE,ZS,fea_null,dup_null,IQR,RF
+683.0,65.54545593,0.0,0.0,0.0,2.507376671,24.57936859,0,Breast Cancer Prediction,Class,683,11,imp_null,enc_null,ZS,fea_null,AD,out_null,RF
+5000.0,442.3571472,0.0,0.071428575,0.0,0.135971755,36.14115524,0,UniversalBank,CreditCard,5000,14,imp_null,enc_null,ZS,fea_null,dup_null,out_null,NB
+400.0,40.42856979,0.0,0.0,0.0,1.398733974,29.32692528,0,new_model,Class,400,14,imp_null,enc_null,ZS,fea_null,dup_null,out_null,RF
+500.0,154.8000031,0.600000024,0.13333334,0.009733333,0.726878941,6.568928719,0,df1_loan,Loan_Status,500,15,imp_null,enc_null,nor_null,LC,dup_null,IQR,NB
+88588.0,26709.81836,0.272727281,0.090909094,0.0,-0.134273052,0.271682143,0,Kinematics_Data,activity,88588,11,imp_null,OE,ZS,fea_null,dup_null,out_null,RF
+748.0,35.40000153,0.0,0.0,0.0,2.05711627,8.083471298,0,transfusion,whether he/she donated blood in March 2007,748,5,imp_null,enc_null,nor_null,fea_null,dup_null,IQR,NB
+8371.0,309.0588379,0.588235319,0.0,0.0,2.157893658,21.8735714,0,ML Marathon Dataset,deposit,8371,17,imp_null,OE,ZS,fea_null,ED,out_null,RF
+500.0,76.7857132,0.357142866,0.071428575,0.0,0.029095441,-1.542380452,0,Employee Satisfaction Index,satisfied,500,14,imp_null,OE,nor_null,fea_null,AD,IQR,NB
+768.0,139.5555573,0.0,0.0,0.0,0.54099834,2.2891078,0,diabetes,Outcome,768,9,imp_null,enc_null,nor_null,fea_null,dup_null,IQR,RF
+400.0,112.8000031,0.200000003,0.200000003,0.0,0.265782028,-1.174239159,0,Social_Network_Ads,Purchased,400,5,imp_null,OE,DS,fea_null,dup_null,out_null,RF
+214.0,105.3636398,0.0,0.090909094,0.0,1.453478575,7.97248888,0,glass,Type of glass,214,11,imp_null,enc_null,ZS,fea_null,dup_null,out_null,RF
+116.0,90.19999695,0.0,0.300000012,0.0,1.60893631,4.703887939,0,Breast Cancer Coimbra Data Set,Classification,116,10,imp_null,enc_null,ZS,fea_null,dup_null,IQR,NB
+373.0,100.1333313,0.333333343,0.06666667,0.003753351,0.1173134,0.243915811,0,dementia_dataset,Group,373,15,MF,OE,nor_null,fea_null,dup_null,out_null,RF
+303.0,28.5714283,0.0,0.0,0.0,0.3655487,0.106976688,0,heart_Disease,target,303,14,imp_null,enc_null,nor_null,fea_null,AD,IQR,NB
+683.0,65.54545593,0.0,0.0,0.0,2.507376671,24.57936859,0,tumor,Class,683,11,imp_null,enc_null,ZS,fea_null,dup_null,out_null,RF
+1748.0,1224.75,0.083333336,0.5,0.0,3.314410448,99.47644806,0,classast - pha,class,1748,12,imp_null,enc_null,nor_null,fea_null,dup_null,IQR,RF
+129880.0,205.4782562,0.217391297,0.0,0.000132229,0.62235117,9.605733871,0,airline_passenger_satisfaction1,satisfaction,129880,23,imp_null,enc_null,nor_null,fea_null,ED,IQR,RF
+60001.0,202.3913116,0.217391297,0.0,0.000130433,0.50887388,5.263322353,0,airline_passenger_satisfaction2,satisfaction,60001,23,imp_null,OE,ZS,fea_null,AD,out_null,RF
+1470.0,157.3142853,0.257142872,0.028571429,0.0,0.415826946,-0.009963999,0,WA_Fn-UseC_-HR-Employee-Attrition,Attrition,1470,35,imp_null,OE,ZS,fea_null,dup_null,IQR,RF
+1470.0,157.3142853,0.257142872,0.028571429,0.0,0.415826946,-0.009963999,0,WA_Fn-UseC_-HR-Employee-Education,Education,1470,35,imp_null,OE,MM,fea_null,ED,out_null,RF
+1470.0,157.3142853,0.257142872,0.028571429,0.0,0.415826946,-0.009963999,0,WA_Fn-UseC_-HR-Employee-EnvironmentSatisfaction,EnvironmentSatisfaction,1470,35,imp_null,enc_null,ZS,fea_null,dup_null,out_null,NB
+1470.0,157.3142853,0.257142872,0.028571429,0.0,0.415826946,-0.009963999,0,WA_Fn-UseC_-HR-Employee-JobSatisfaction,JobSatisfaction,1470,35,imp_null,enc_null,ZS,fea_null,dup_null,IQR,NB
+1534.0,913.7142944,0.857142866,0.142857149,0.0,0.015697191,-1.278619409,0,TagMyBook,rating,1534,7,imp_null,OE,ZS,fea_null,ED,out_null,RF
+6620.0,1789.915527,0.0,0.0,0.0,0.624677658,2.005970478,0,customerTargeting,target,6620,71,imp_null,enc_null,ZS,fea_null,dup_null,out_null,RF
+3333.0,497.2000122,0.150000006,0.0,0.0,0.493346989,0.552823246,0,telecom_churn2,Churn,3333,11,imp_null,enc_null,ZS,fea_null,dup_null,IQR,RF
+10000.0,2377.055664,0.055555556,0.055555556,0.0,0.119713992,-1.189609766,0,ParisHousingClass,category,10000,18,imp_null,enc_null,ZS,fea_null,dup_null,IQR,RF
+10000.0,2377.055664,0.055555556,0.055555556,0.0,0.057989392,-1.398530841,0,ParisHousingClass99.88,category,10000,18,imp_null,enc_null,MM,fea_null,dup_null,out_null,RF
+520.0,4.882352829,0.941176474,0.0,0.0,0.346403867,-1.425342917,0,diabetes_data_upload,class,520,17,imp_null,OE,MM,fea_null,dup_null,out_null,RF
+614.0,126.615387,0.615384638,0.07692308,0.011150087,1.142089725,12.58944798,0,Loan Prediction with 3 Problem Statement,Loan_Status,614,13,imp_null,OE,ZS,fea_null,dup_null,IQR,NB
+958.0,2.900000095,1.0,0.0,0.0,-0.382309109,-1.308243513,0,tic-tac-toe-endgame,V10,958,10,imp_null,OE,nor_null,fea_null,dup_null,LOF,RF
+1388.0,912.944458,0.055555556,0.222222224,0.0,0.221106052,0.11067044,0,Star1,class,1388,18,imp_null,enc_null,ZS,fea_null,dup_null,IQR,RF
+5416.0,3265.555664,0.055555556,0.166666672,0.0,0.214244768,0.155000389,0,Star2,class,5416,18,imp_null,enc_null,MM,fea_null,ED,IQR,RF
+7568.0,4486.111328,0.055555556,0.166666672,8.81e-05,0.324762911,0.408142984,0,Star3,class,7568,18,imp_null,enc_null,ZS,fea_null,dup_null,IQR,RF
+5855.0,109.8695679,0.217391297,0.0,0.000118813,0.414215744,2.155305862,0,airline_passenger_satisfaction3,satisfaction,5855,23,imp_null,OE,ZS,fea_null,dup_null,out_null,RF
+1708.0,60.78260803,0.217391297,0.0,0.000127278,0.998183429,14.91982937,0,airline_passenger_satisfaction4,satisfaction,1708,23,imp_null,OE,ZS,fea_null,dup_null,out_null,RF
+999.0,279.444458,0.333333343,0.111111112,0.0,-0.208681762,2.839328051,0,Airlines1,Delay,999,9,imp_null,FE,ZS,fea_null,dup_null,out_null,NB
+20001.0,3127.444336,0.333333343,0.111111112,0.0,0.218328267,-0.753968,0,Airlines2,Delay,20001,9,imp_null,OE,ZS,fea_null,dup_null,out_null,RF
+6001.0,1195.555542,0.333333343,0.111111112,0.0,0.243730545,-0.617941141,0,Airlines3,Delay,6001,9,imp_null,FE,ZS,fea_null,dup_null,out_null,LDA
+1227.0,308.4166565,0.166666672,0.166666672,0.0,0.17937021,-0.92824322,0,Bank Customer Churn Prediction1,churn,1227,12,imp_null,OE,ZS,fea_null,dup_null,out_null,RF
+3820.0,881.916687,0.166666672,0.166666672,0.0,0.201581299,-0.818350971,0,Bank Customer Churn Prediction2,churn,3820,12,imp_null,OE,nor_null,fea_null,dup_null,out_null,RF
+783.0,348.4285583,0.257142872,0.314285725,0.0,2.58327961,27.20346642,0,Bank Loan Defaulter Prediction1,Loan Status,783,35,imp_null,enc_null,ZS,fea_null,dup_null,out_null,RF
+1898.0,822.0571289,0.257142872,0.285714298,0.0,2.644915342,30.76660919,0,Bank Loan Defaulter Prediction2,Loan Status,1898,35,imp_null,enc_null,ZS,fea_null,dup_null,out_null,RF
+3648.0,1554.685669,0.257142872,0.285714298,0.0,2.660043478,29.54800797,0,Bank Loan Defaulter Prediction3,Loan Status,3648,35,imp_null,OE,ZS,fea_null,dup_null,out_null,RF
+360.0,166.6285706,0.257142872,0.285714298,0.0,1.854452252,18.39574051,0,Bank Loan Defaulter Prediction4,Loan Status,360,35,imp_null,OE,ZS,fea_null,dup_null,out_null,NB
+4838.0,2044.771484,0.257142872,0.200000003,0.0,2.613194466,29.45588684,0,Bank Loan Defaulter Prediction5,Loan Status,4838,35,imp_null,OE,ZS,LC,dup_null,out_null,NB
+346.0,23.5625,0.6875,0.0,0.0,0.722528636,4.672533989,0,Banking Dataset Classification1,y,346,16,imp_null,OE,nor_null,fea_null,dup_null,out_null,RF
+3987.0,62.25,0.6875,0.0,0.0,0.775019646,6.453404427,0,Banking Dataset Classification2,y,3987,16,imp_null,OE,ZS,fea_null,dup_null,IQR,LDA
+1124.0,40.125,0.6875,0.0,0.0,1.080196142,11.07763767,0,Banking Dataset Classification3,y,1124,16,imp_null,OE,ZS,fea_null,dup_null,IQR,RF
+1058.0,189.0833282,0.166666672,0.0,0.0,-0.07721965,-0.012866646,0,bodyPerformance1,class,1058,12,imp_null,enc_null,nor_null,MR,dup_null,out_null,RF
+5128.0,271.25,0.166666672,0.0,0.0,0.199499726,5.49200964,0,bodyPerformance2,class,5128,12,imp_null,BE,nor_null,fea_null,dup_null,LOF,RF
+188.0,85.0,0.166666672,0.0,0.0,-0.06007326,-0.678883314,0,bodyPerformance3,class,188,12,imp_null,enc_null,ZS,MR,dup_null,out_null,LDA
+1952.0,22.8125,0.6875,0.0,0.0,-0.133420765,4.350162506,0,Breast_Cancer1,Status,1952,16,imp_null,OE,nor_null,fea_null,dup_null,out_null,LDA
+1041.0,21.25,0.6875,0.0,0.0,-0.180974126,5.076490402,0,Breast_Cancer2,Status,1041,16,imp_null,OE,nor_null,fea_null,dup_null,LOF,RF
+251.0,16.6875,0.6875,0.0,0.0,-0.269562006,5.460621834,0,Breast_Cancer3,Status,251,16,imp_null,OE,nor_null,fea_null,dup_null,LOF,RF
+453.0,49.21052551,0.421052635,0.052631579,0.011269896,0.762298763,1.400765419,0,Car_Insurance_Claim1,OUTCOME,453,19,MEAN,OE,ZS,fea_null,dup_null,IQR,RF
+1481.0,151.7368469,0.421052635,0.052631579,0.010910125,0.750195146,1.446426034,0,Car_Insurance_Claim2,OUTCOME,1481,19,MEAN,OE,nor_null,fea_null,dup_null,IQR,LDA
+1960.0,201.1578979,0.421052635,0.052631579,0.009801289,0.81656605,2.073579788,0,Car_Insurance_Claim3,OUTCOME,1960,19,MEAN,OE,MM,fea_null,dup_null,out_null,RF
+3315.0,337.5263062,0.421052635,0.052631579,0.010256411,0.781018078,1.71160543,0,Car_Insurance_Claim4,OUTCOME,3315,19,MEAN,OE,ZS,fea_null,dup_null,IQR,RF
+753.0,79.73683929,0.421052635,0.052631579,0.011113442,0.860844433,2.258713007,0,Car_Insurance_Claim5,OUTCOME,753,19,MEAN,OE,ZS,fea_null,dup_null,IQR,RF
+280.0,143.8823547,0.05882353,0.05882353,0.0,0.289494783,0.462218434,0,CDR-Call-Details1,Churn,280,17,imp_null,enc_null,ZS,fea_null,dup_null,IQR,NB
+1183.0,413.9411621,0.05882353,0.05882353,0.0,0.287379205,0.5373981,0,CDR-Call-Details2,Churn,1183,17,imp_null,enc_null,ZS,fea_null,AD,IQR,RF
+3173.0,758.2352905,0.05882353,0.0,0.0,1.098060489,2.07242918,0,CDR-Call-Details3,Churn,3173,17,imp_null,enc_null,ZS,fea_null,dup_null,IQR,RF
+237.0,59.42856979,0.678571403,0.107142858,0.007986739,1.230156541,9.44178009,0,Credit score1,Credit_Score,237,28,MEDIAN,enc_null,ZS,fea_null,dup_null,IQR,RF
+1150.0,245.1785736,0.678571403,0.071428575,0.007080745,1.719707608,16.06740379,0,Credit score2,Credit_Score,1150,28,MEDIAN,enc_null,ZS,fea_null,dup_null,IQR,RF
+1649.0,340.75,0.678571403,0.071428575,0.006584077,1.721960306,15.06682491,0,Credit score3,Credit_Score,1649,28,MEDIAN,enc_null,nor_null,fea_null,dup_null,IQR,RF
+3094.0,616.25,0.714285731,0.071428575,0.005759996,1.768310428,16.69325066,0,Credit score4,Credit_Score,3094,28,MF,enc_null,DS,fea_null,AD,out_null,RF
+257.0,9.453608513,0.020618556,0.0,0.0,1.944774866,14.82513332,0,csgo_round_snapshots1,round_winner,257,97,imp_null,OE,ZS,fea_null,dup_null,out_null,RF
+765.0,18.55670166,0.020618556,0.0,0.0,2.27793169,20.32729912,0,csgo_round_snapshots2,round_winner,765,97,imp_null,OE,nor_null,fea_null,dup_null,IQR,RF
+1340.0,24.91752625,0.020618556,0.0,0.0,2.82096982,38.45951462,0,csgo_round_snapshots3,round_winner,1340,97,imp_null,OE,ZS,fea_null,dup_null,out_null,RF
+2185.0,32.35051727,0.020618556,0.0,0.0,4.697298527,86.92556,0,csgo_round_snapshots4,round_winner,2185,97,imp_null,OE,ZS,fea_null,dup_null,out_null,RF
+398.0,12.50515461,0.020618556,0.0,0.0,1.533179402,9.971992493,0,csgo_round_snapshots5,round_winner,398,97,imp_null,OE,ZS,fea_null,dup_null,out_null,RF
+248.0,108.6901398,0.0,0.056338027,0.0,0.687104106,1.817977309,0,customerTargeting1,target,248,71,imp_null,enc_null,nor_null,LC,ED,out_null,NB
+864.0,292.7464905,0.0,0.0,0.0,0.623019397,1.718528748,0,customerTargeting2,target,864,71,imp_null,enc_null,DS,fea_null,dup_null,IQR,RF
+1368.0,427.690155,0.0,0.0,0.0,0.603756964,1.732060552,0,customerTargeting3,target,1368,71,imp_null,enc_null,nor_null,fea_null,dup_null,IQR,RF
+1149.0,370.2253418,0.0,0.0,0.0,0.588370383,2.263434887,0,customerTargeting4,target,1149,71,imp_null,enc_null,DS,fea_null,dup_null,IQR,NB
+368.0,144.1549225,0.0,0.0,0.0,0.58709687,1.724402785,0,customerTargeting5,target,368,71,imp_null,enc_null,DS,fea_null,dup_null,IQR,RF
+104.0,38.28571319580078,0.1428571492433548,0.0714285746216774,0.0020604396704584,0.1162012368440628,-0.422017753124237,1,possum_belly,belly,104,14,imp_null,OE,DS,fea_null,dup_null,out_null,RF_REG
+104.0,38.28571319580078,0.1428571492433548,0.0714285746216774,0.0020604396704584,0.1162012368440628,-0.422017753124237,1,possum_totlngth,totlngth,104,14,MEDIAN,enc_null,nor_null,fea_null,dup_null,out_null,RF_REG
+104.0,38.28571319580078,0.1428571492433548,0.0714285746216774,0.0020604396704584,0.1162012368440628,-0.422017753124237,1,possum_footlgth,footlgth,104,14,MEAN,OE,ZS,fea_null,dup_null,IQR,OLS
+400.0,112.8000030517578,0.2000000029802322,0.2000000029802322,0.0,0.2657820284366607,-1.174239158630371,1,Social_Network_Ads,Purchased,400,5,imp_null,OE,nor_null,fea_null,dup_null,ZSB,RF_REG
+1030.0,263.3333435058594,0.0,0.0,0.0,0.6913676261901855,1.1477608680725098,1,Concrete_Data_Yeh,csMPa,1030,9,imp_null,enc_null,nor_null,fea_null,dup_null,ZSB,RF_REG
+1338.0,278.0,0.4285714328289032,0.0,0.0,0.599956214427948,-0.3816527426242828,1,insurance,charges,1338,7,imp_null,OE,ZS,fea_null,dup_null,LOF,RF_REG
+1338.0,278.0,0.4285714328289032,0.0,0.0,0.599956214427948,-0.3816527426242828,1,insurance_bmi,bmi,1338,7,imp_null,OE,ZS,fea_null,dup_null,out_null,OLS
+205.0,48.80769348144531,0.3846153914928436,0.0384615398943424,0.0,0.7397395372390747,3.820787668228149,1,CarPrice_Assignment,price,205,26,imp_null,OE,MM,MR,dup_null,out_null,RF_REG
+506.0,218.92857360839844,0.0,0.0,0.0,0.9065791964530944,4.131022930145264,1,boston,MEDV,506,14,imp_null,enc_null,nor_null,MR,ED,IQR,RF_REG
+4238.0,144.0,0.0,0.0,0.0095121525228023,2.5161900520324707,18.320301055908203,1,framingham,TenYearCHD,4238,16,MF,enc_null,ZS,fea_null,dup_null,LOF,OLS
+4238.0,144.0,0.0,0.0,0.0095121525228023,2.5161900520324707,18.320301055908203,1,framingham_heartRate,heartRate,4238,16,MF,enc_null,nor_null,fea_null,dup_null,LOF,OLS
+21613.0,2547.09521484375,0.0476190485060215,0.0,0.0,2.721775770187378,32.78654098510742,1,kc_house_data,price,21613,21,imp_null,enc_null,DS,fea_null,dup_null,IQR,RF_REG
+1599.0,121.58333587646484,0.0,0.0,0.0,1.561004638671875,7.641122817993164,1,winequality_red,quality,1599,12,imp_null,enc_null,ZS,fea_null,dup_null,out_null,RF_REG
+17442.0,36.0,0.1428571492433548,0.0,0.0,0.1424660235643386,-1.172814130783081,1,Acoustic,STATUS,17442,7,imp_null,OE,MM,fea_null,dup_null,out_null,RF_REG
+5000.0,442.3571472167969,0.0,0.0714285746216774,0.0,0.1359717547893524,36.14115524291992,1,Bank_Personal_Loan_Modelling,CreditCard,5000,14,imp_null,enc_null,ZS,fea_null,AD,IQR,OLS
+32950.0,104.5,0.6875,0.0,0.0,0.805279552936554,6.37014102935791,1,Banking Dataset Classification,y,32950,16,imp_null,enc_null,ZS,LC,dup_null,IQR,OLS
+500.0,44.5,0.25,0.0,0.0,-0.2618191838264465,-1.0875611305236816,1,bmi,Index,500,4,imp_null,OE,ZS,fea_null,dup_null,out_null,RF_REG
+13393.0,336.4166564941406,0.1666666716337204,0.0,0.0,0.0233743414282798,2.5648694038391118,1,bodyPerformance,class,13393,12,imp_null,OE,nor_null,fea_null,dup_null,LOF,RF_REG
+300.0,198.5,0.0,0.5,0.0,-0.0050981934182345,-1.0984504222869873,1,Linear_Regression_test,y,300,2,imp_null,enc_null,MM,fea_null,ED,out_null,OLS
+683.0,65.54545593261719,0.0,0.0,0.0,2.5073766708374023,24.579368591308597,1,Breast Cancer Prediction,Class,683,11,imp_null,enc_null,ZS,fea_null,dup_null,IQR,RF_REG
+683.0,65.54545593261719,0.0,0.0,0.0,2.5073766708374023,24.579368591308597,1,Breast Cancer Prediction_NN,Normal Nucleoli,683,11,imp_null,enc_null,ZS,fea_null,dup_null,IQR,OLS
+1000.0,259.3999938964844,0.2000000029802322,0.2000000029802322,0.0,0.202281191945076,-1.2352038621902466,1,car_data,Purchased,1000,5,imp_null,OE,ZS,fea_null,dup_null,out_null,RF_REG
+1000000.0,375001.25,0.0,0.375,0.0,19.785945892333984,6094.04345703125,1,card_transdata,fraud,1000000,8,imp_null,enc_null,ZS,fea_null,dup_null,LOF,RF_REG
+418.0,135.75,0.3499999940395355,0.050000000745058,0.0728468969464302,1.261688470840454,3.379037857055664,1,cirrhosis,Stage,418,20,MEDIAN,OE,nor_null,fea_null,dup_null,out_null,RF_REG
+1748.0,1224.75,0.0833333358168602,0.5,0.0,3.314410448074341,99.47644805908205,1,classast - pha,class,1748,12,imp_null,enc_null,nor_null,fea_null,dup_null,LOF,RF_REG
+1001.0,538.25,0.0,0.0,0.0,0.7148500680923462,1.5919846296310425,1,classification_in_asteroseismology,POP,1001,4,imp_null,enc_null,nor_null,fea_null,dup_null,LOF,RF_REG
+1001.0,538.25,0.0,0.0,0.0,0.7148500680923462,1.5919846296310425,1,classification_in_asteroseismology_epsilon,epsilon,1001,4,imp_null,enc_null,nor_null,fea_null,dup_null,LOF,RF_REG
+5434.0,1.9047619104385376,1.0,0.0,0.0,-0.2436175644397735,-1.4152233600616455,1,Covid Dataset,COVID-19,5434,21,imp_null,OE,MM,fea_null,dup_null,out_null,RF_REG
+2129.0,154.10000610351562,0.0750000029802322,0.0,0.0011390324216336,2.112089157104492,14.642324447631836,1,CTG,NSP,2129,40,imp_null,OE,ZS,fea_null,dup_null,out_null,RF_REG
+2129.0,154.10000610351562,0.0750000029802322,0.0,0.0011390324216336,2.112089157104492,14.642324447631836,1,CTG_class,CLASS,2129,40,imp_null,enc_null,ZS,fea_null,dup_null,out_null,RF_REG
+2129.0,154.10000610351562,0.0750000029802322,0.0,0.0011390324216336,2.112089157104492,14.642324447631836,1,CTG_Variance,Variance,2129,40,MEDIAN,OE,ZS,fea_null,dup_null,out_null,RF_REG
+2129.0,154.10000610351562,0.0750000029802322,0.0,0.0011390324216336,2.112089157104492,14.642324447631836,1,CTG_Median,Median,2129,40,imp_null,OE,ZS,fea_null,dup_null,out_null,RF_REG
+2129.0,154.10000610351562,0.0750000029802322,0.0,0.0011390324216336,2.112089157104492,14.642324447631836,1,CTG_Mean,Mean,2129,40,imp_null,OE,ZS,fea_null,dup_null,out_null,RF_REG
+8068.0,744.9091186523438,0.6363636255264282,0.0909090936183929,0.0131157878786325,0.0825606510043144,-0.6715293526649475,1,Customer Segmentation,Segmentation,8068,11,DROP,OE,MM,fea_null,dup_null,LOF,RF_REG
+6620.0,1789.91552734375,0.0,0.0,0.0,0.6246776580810547,2.0059704780578613,1,customerTargeting,target,6620,71,imp_null,OE,DS,fea_null,dup_null,IQR,LASSO
+954.0,4.142857074737549,0.5714285969734192,0.0,0.0,0.5088195204734802,-1.1718264818191528,1,Customertravel,ServicesOpted,954,7,imp_null,OE,ZS,fea_null,dup_null,out_null,RF_REG
+954.0,4.142857074737549,0.5714285969734192,0.0,0.0,0.5088195204734802,-1.1718264818191528,1,Customertravel_Target,Target,954,7,imp_null,OE,nor_null,fea_null,dup_null,out_null,RF_REG
+373.0,100.13333129882812,0.3333333432674408,0.0666666701436042,0.0037533512804657,0.1173133999109268,0.2439158111810684,1,dementia_dataset,Group,373,15,MF,OE,ZS,fea_null,ED,out_null,RF_REG
+2000.0,137.88888549804688,0.0,0.0,0.0,0.5621591210365295,2.2211506366729736,1,diabetes-dataset,Outcome,2000,9,imp_null,enc_null,DS,fea_null,dup_null,out_null,RF_REG
+200.0,44.5,0.6666666865348816,0.0,0.0,0.2737044990062713,-1.3025401830673218,1,Drug200,Drug,200,6,imp_null,BE,nor_null,fea_null,dup_null,ZSB,RF_REG
+200.0,44.5,0.6666666865348816,0.0,0.0,0.2737044990062713,-1.3025401830673218,1,Drug200_Na_to_K,Na_to_K,200,6,imp_null,BE,nor_null,fea_null,dup_null,out_null,OLS
+10999.0,1278.9166259765625,0.3333333432674408,0.0833333358168602,0.0,0.1002956628799438,-0.4459921419620514,1,ECommerceShipping,ReachedonTime,10999,12,imp_null,OE,MM,fea_null,ED,out_null,RF_REG
+10999.0,1278.9166259765625,0.3333333432674408,0.0833333358168602,0.0,0.1002956628799438,-0.4459921419620514,1,ECommerceShipping_Weight_in_gms,Weight_in_gms,10999,12,imp_null,OE,MM,fea_null,ED,out_null,RF_REG
+10999.0,1278.9166259765625,0.3333333432674408,0.0833333358168602,0.0,0.1002956628799438,-0.4459921419620514,1,ECommerceShipping_Discount_offered,Discount_offered,10999,12,imp_null,BE,nor_null,fea_null,dup_null,ZSB,RF_REG
+10999.0,1278.9166259765625,0.3333333432674408,0.0833333358168602,0.0,0.1002956628799438,-0.4459921419620514,1,ECommerceShipping_Customer_rating,Customer_rating,10999,12,imp_null,BE,nor_null,fea_null,dup_null,ZSB,OLS
+500.0,76.78571319580078,0.3571428656578064,0.0714285746216774,0.0,0.0290954411029815,-1.542380452156067,1,Employee Satisfaction Index,satisfied,500,14,imp_null,OE,nor_null,fea_null,dup_null,ZSB,LASSO
+500.0,76.78571319580078,0.3571428656578064,0.0714285746216774,0.0,0.0290954411029815,-1.542380452156067,1,Employee Satisfaction Index_job_level,job_level,500,14,imp_null,OE,nor_null,fea_null,AD,IQR,OLS
+500.0,76.78571319580078,0.3571428656578064,0.0714285746216774,0.0,0.0290954411029815,-1.542380452156067,1,Employee Satisfaction Index_rating,rating,500,14,imp_null,OE,nor_null,fea_null,dup_null,ZSB,RF_REG
+500.0,76.78571319580078,0.3571428656578064,0.0714285746216774,0.0,0.0290954411029815,-1.542380452156067,1,Employee Satisfaction Index_salary,salary,500,14,imp_null,OE,nor_null,fea_null,dup_null,ZSB,OLS
+1029.0,116.02857208251952,0.2571428716182709,0.0285714287310838,0.007163681089878,0.4046702086925506,-0.0697769895195961,1,employee_attrition_train,Attrition,1029,35,imp_null,OE,ZS,fea_null,dup_null,out_null,LASSO
+1029.0,116.02857208251952,0.2571428716182709,0.0285714287310838,0.007163681089878,0.4046702086925506,-0.0697769895195961,1,employee_attrition_YearsAtCompany,YearsAtCompany,1029,35,imp_null,OE,MM,fea_null,dup_null,IQR,RF_REG
+1029.0,116.02857208251952,0.2571428716182709,0.0285714287310838,0.007163681089878,0.4046702086925506,-0.0697769895195961,1,employee_attrition_MonthlyIncome,MonthlyIncome,1029,35,imp_null,OE,ZS,fea_null,dup_null,out_null,RF_REG
+1029.0,116.02857208251952,0.2571428716182709,0.0285714287310838,0.007163681089878,0.4046702086925506,-0.0697769895195961,1,employee_attrition_HourlyRate,HourlyRate,1029,35,imp_null,OE,MM,fea_null,dup_null,IQR,RF_REG
+1029.0,116.02857208251952,0.2571428716182709,0.0285714287310838,0.007163681089878,0.4046702086925506,-0.0697769895195961,1,employee_attrition_YearsWithCurrManager,YearsWithCurrManager,1029,35,imp_null,OE,MM,fea_null,dup_null,IQR,LASSO
+368.0,16.183332443237305,0.3000000119209289,0.0,0.0,0.6872126460075378,6.723867416381836,1,FIC,Mortality,368,60,imp_null,OE,nor_null,fea_null,dup_null,out_null,RF_REG
+368.0,16.183332443237305,0.3000000119209289,0.0,0.0,0.6872126460075378,6.723867416381836,1,FIC_Follow,Follow.Up,368,60,imp_null,OE,MM,fea_null,dup_null,IQR,LASSO
+368.0,16.183332443237305,0.3000000119209289,0.0,0.0,0.6872126460075378,6.723867416381836,1,FIC_num,num,368,60,imp_null,enc_null,ZS,fea_null,dup_null,IQR,RF_REG
+368.0,16.183332443237305,0.3000000119209289,0.0,0.0,0.6872126460075378,6.723867416381836,1,FIC_BGR,BGR,368,60,imp_null,OE,nor_null,fea_null,dup_null,out_null,RF_REG
+1000.0,150.81817626953125,0.4545454680919647,0.0,0.0,-0.0217890441417694,-1.1068997383117676,1,Go To College,will_go_to_college,1000,11,imp_null,OE,ZS,fea_null,dup_null,out_null,RF_REG
+1000.0,150.81817626953125,0.4545454680919647,0.0,0.0,-0.0217890441417694,-1.1068997383117676,1,Go To College_average_grades,average_grades,1000,11,imp_null,OE,ZS,fea_null,dup_null,IQR,RF_REG
+64295.0,7791.7998046875,0.6000000238418579,0.0,0.167123407125473,-0.4020868241786957,-0.4119257926940918,1,googleplaystore_reviews,Sentiment,64295,5,MEAN,OE,ZS,fea_null,dup_null,IQR,RF_REG
+303.0,28.571428298950195,0.0,0.0,0.0,0.365548700094223,0.1069766879081726,1,Heart Attack Data Set,target,303,14,imp_null,enc_null,ZS,fea_null,dup_null,IQR,RF_REG
+303.0,28.571428298950195,0.0,0.0,0.0,0.365548700094223,0.1069766879081726,1,Heart Attack Data Set_thalach,thalach,303,14,imp_null,enc_null,ZS,fea_null,dup_null,out_null,RF_REG
+303.0,28.571428298950195,0.0,0.0,0.0,0.365548700094223,0.1069766879081726,1,Heart Attack Data Set_trestbps,trestbps,303,14,imp_null,enc_null,nor_null,fea_null,dup_null,LOF,RF_REG
+303.0,28.571428298950195,0.0,0.0,0.0,0.365548700094223,0.1069766879081726,1,Heart Attack Data Set_chol,chol,303,14,imp_null,enc_null,nor_null,fea_null,dup_null,LOF,RF_REG
+303.0,28.571428298950195,0.0,0.0,0.0,0.365548700094223,0.1069766879081726,1,Heart Attack Data Set_oldpeak,oldpeak,303,14,imp_null,enc_null,nor_null,fea_null,dup_null,LOF,RF_REG
+918.0,44.16666793823242,0.4166666567325592,0.0,0.0,0.0607719719409942,-0.1876105815172195,1,Heart,HeartDisease,918,12,imp_null,OE,MM,fea_null,dup_null,IQR,OLS
+918.0,44.16666793823242,0.4166666567325592,0.0,0.0,0.0607719719409942,-0.1876105815172195,1,Heart_RestingBP,RestingBP,918,12,imp_null,BE,ZS,fea_null,dup_null,out_null,OLS
+918.0,44.16666793823242,0.4166666567325592,0.0,0.0,0.0607719719409942,-0.1876105815172195,1,Heart_MaxHR,MaxHR,918,12,imp_null,OE,MM,fea_null,dup_null,IQR,OLS
+918.0,44.16666793823242,0.4166666567325592,0.0,0.0,0.0607719719409942,-0.1876105815172195,1,Heart_Cholesterol,Cholesterol,918,12,imp_null,OE,DS,fea_null,dup_null,out_null,OLS
+918.0,44.16666793823242,0.4166666567325592,0.0,0.0,0.0607719719409942,-0.1876105815172195,1,Heart_Oldpeak,Oldpeak,918,12,imp_null,OE,DS,fea_null,dup_null,out_null,OLS
+303.0,28.571428298950195,0.0,0.0,0.0,0.365548700094223,0.1069766879081726,1,heart_Disease_Oldpeak,oldpeak,303,14,imp_null,OE,DS,fea_null,dup_null,out_null,OLS
+303.0,28.571428298950195,0.0,0.0,0.0,0.365548700094223,0.1069766879081726,1,heart_Disease_chol,chol,303,14,imp_null,FE,ZS,LC,dup_null,out_null,RF_REG
+303.0,28.571428298950195,0.0,0.0,0.0,0.365548700094223,0.1069766879081726,1,heart_Disease_thalach,thalach,303,14,imp_null,OE,MM,fea_null,dup_null,IQR,RF_REG
+303.0,28.571428298950195,0.0,0.0,0.0,0.365548700094223,0.1069766879081726,1,heart_Disease,target,303,14,imp_null,OE,DS,fea_null,dup_null,out_null,OLS
+5652.0,1580.0,0.1538461595773697,0.0,0.0436196886003017,2.2129430770874023,13.578258514404297,1,hmeq,BAD,5652,13,MEAN,OE,nor_null,fea_null,dup_null,out_null,RF_REG
+5652.0,1580.0,0.1538461595773697,0.0,0.0436196886003017,2.2129430770874023,13.578258514404297,1,hmeq_CLNO,CLNO,5652,13,MEDIAN,OE,nor_null,fea_null,dup_null,IQR,RF_REG
+5652.0,1580.0,0.1538461595773697,0.0,0.0436196886003017,2.2129430770874023,13.578258514404297,1,hmeq_CLAGE,CLAGE,5652,13,MEAN,OE,nor_null,fea_null,dup_null,out_null,RF_REG
+54808.0,3929.928466796875,0.3571428656578064,0.0714285746216774,0.0053746062330901,1.1672388315200806,4.206077098846436,1,HR Analysis Case Study,is_promoted,54808,14,MEAN,OE,ZS,fea_null,dup_null,out_null,RF_REG
+54808.0,3929.928466796875,0.3571428656578064,0.0714285746216774,0.0053746062330901,1.1672388315200806,4.206077098846436,1,HR Analysis Case Study_length_of_service,length_of_service,54808,14,MEAN,OE,ZS,fea_null,dup_null,out_null,OLS
+54808.0,3929.928466796875,0.3571428656578064,0.0714285746216774,0.0053746062330901,1.1672388315200806,4.206077098846436,1,HR Analysis Case Study_KPIs,KPIs_met >80%,54808,14,imp_null,OE,ZS,fea_null,dup_null,out_null,RF_REG
+54808.0,3929.928466796875,0.3571428656578064,0.0714285746216774,0.0053746062330901,1.1672388315200806,4.206077098846436,1,HR Analysis Case Study_awards,awards_won?,54808,14,MF,enc_null,DS,LC,dup_null,out_null,OLS
+54808.0,3929.928466796875,0.3571428656578064,0.0714285746216774,0.0053746062330901,1.1672388315200806,4.206077098846436,1,HR Analysis Case Study_avg_training_score,avg_training_score,54808,14,MEAN,OE,ZS,fea_null,dup_null,out_null,RF_REG
+54808.0,4232.0771484375,0.3846153914928436,0.0769230797886848,0.0057880375534296,1.209341049194336,4.653911590576172,1,HR Analytics Employee Promotion Data,is_promoted,54808,13,MEDIAN,OE,nor_null,LC,dup_null,out_null,RF_REG
+54808.0,4232.0771484375,0.3846153914928436,0.0769230797886848,0.0057880375534296,1.209341049194336,4.653911590576172,1,HR Analytics Employee Promotion Data_length_of_service,length_of_service,54808,13,MF,OE,ZS,fea_null,dup_null,IQR,OLS
+54808.0,4232.0771484375,0.3846153914928436,0.0769230797886848,0.0057880375534296,1.209341049194336,4.653911590576172,1,HR Analytics Employee Promotion Data_award,awards_won?,54808,13,MEAN,OE,ZS,fea_null,dup_null,out_null,OLS
+54808.0,4232.0771484375,0.3846153914928436,0.0769230797886848,0.0057880375534296,1.209341049194336,4.653911590576172,1,HR Analytics Employee Promotion Data_avg_training_score,avg_training_score,54808,13,MEAN,OE,ZS,fea_null,dup_null,out_null,RF_REG
+590.0,64.55000305175781,0.6000000238418579,0.0,0.0,1.127683401107788,3.243549346923828,1,IPL_Auction_2022_FullList,Bid,590,20,imp_null,enc_null,ZS,fea_null,dup_null,IQR,RF_REG
+590.0,64.55000305175781,0.6000000238418579,0.0,0.0,1.127683401107788,3.243549346923828,1,IPL_Auction_2022_FullList_Test caps,Test caps,590,20,imp_null,enc_null,nor_null,fea_null,dup_null,IQR,RF_REG
+590.0,64.55000305175781,0.6000000238418579,0.0,0.0,1.127683401107788,3.243549346923828,1,IPL_Auction_2022_FullList_ODI caps,ODI caps,590,20,imp_null,enc_null,nor_null,fea_null,dup_null,IQR,RF_REG
+590.0,64.55000305175781,0.6000000238418579,0.0,0.0,1.127683401107788,3.243549346923828,1,IPL_Auction_2022_FullList_T20 caps,T20 caps,590,20,imp_null,enc_null,MM,fea_null,dup_null,IQR,LASSO
+590.0,64.55000305175781,0.6000000238418579,0.0,0.0,1.127683401107788,3.243549346923828,1,IPL_Auction_2022_FullList_IPL,IPL,590,20,imp_null,enc_null,MM,fea_null,dup_null,IQR,OLS
+150.0,25.200000762939453,0.2000000029802322,0.0,0.0,0.0539005510509014,-0.9026185870170592,1,IRIS,species,150,5,imp_null,enc_null,ZS,fea_null,dup_null,out_null,RF_REG
+150.0,25.200000762939453,0.2000000029802322,0.0,0.0,0.0539005510509014,-0.9026185870170592,1,IRIS_sepal_length,sepal_length,150,5,imp_null,enc_null,ZS,fea_null,dup_null,out_null,RF_REG
+150.0,25.200000762939453,0.2000000029802322,0.0,0.0,0.0539005510509014,-0.9026185870170592,1,IRIS_sepal_width,sepal_width,150,5,imp_null,enc_null,MM,fea_null,ED,out_null,RF_REG
+150.0,25.200000762939453,0.2000000029802322,0.0,0.0,0.0539005510509014,-0.9026185870170592,1,IRIS_petal_length,petal_length,150,5,imp_null,enc_null,MM,fea_null,ED,out_null,OLS
+150.0,25.200000762939453,0.2000000029802322,0.0,0.0,0.0539005510509014,-0.9026185870170592,1,IRIS_petal_width,petal_width,150,5,imp_null,enc_null,MM,fea_null,dup_null,IQR,RF_REG
+30527.0,2016.730712890625,0.0384615398943424,0.0384615398943424,0.0,1.890488147735596,33.150272369384766,1,microbes,microorganisms,30527,26,imp_null,enc_null,nor_null,fea_null,dup_null,IQR,RF_REG
+1059.0,6.625,0.125,0.0,0.0,-0.0365953147411346,-0.1920193433761596,1,milknew,Grade,1059,8,imp_null,enc_null,nor_null,fea_null,dup_null,IQR,RF_REG
+1599.0,121.25,0.0833333358168602,0.0,0.0,1.5312458276748655,7.451140880584717,1,wine,quality,1599,12,imp_null,enc_null,ZS,fea_null,dup_null,out_null,RF_REG

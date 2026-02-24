@@ -1,0 +1,101 @@
+DatasetName,Target,Pipeline,EvaluationMetric,Time,Size,Website
+possum_belly,belly,"imp_null,OE,DS,fea_null,dup_null,out_null,RF_REG",9.847909523809523,0.1100726127624511,"(104, 14)",https
+possum_totlngth,totlngth,"MEDIAN,enc_null,nor_null,fea_null,dup_null,out_null,RF_REG",13.068599999999998,0.1250450611114502,"(104, 14)",https
+possum_footlgth,footlgth,"MEAN,OE,ZS,fea_null,dup_null,IQR,OLS",124.8094559640435,0.0360221862792968,"(104, 14)",https
+Social_Network_Ads,Purchased,"imp_null,OE,nor_null,fea_null,dup_null,ZSB,RF_REG",0.0916225,0.1539230346679687,"(400, 5)",https
+Concrete_Data_Yeh,csMPa,"imp_null,enc_null,nor_null,fea_null,dup_null,ZSB,RF_REG",3623.515810647512,0.3129987716674804,"(1030, 9)",https
+insurance,charges,"imp_null,OE,ZS,fea_null,dup_null,LOF,RF_REG",20954.47495923802,0.2829039096832275,"(1338, 7)",https
+insurance_bmi,bmi,"imp_null,OE,ZS,fea_null,dup_null,out_null,OLS",15501.354790250823,0.0200023651123046,"(1338, 7)",https
+CarPrice_Assignment,price,"imp_null,OE,MM,MR,dup_null,out_null,RF_REG",215.21894146341464,0.2099359035491943,"(205, 26)",https
+boston,MEDV,"imp_null,enc_null,nor_null,MR,ED,IQR,RF_REG",301.9374169491525,0.2179980278015136,"(506, 14)",https
+framingham,TenYearCHD,"MF,enc_null,ZS,fea_null,dup_null,LOF,OLS",0.0946101224300735,0.1299941539764404,"(4238, 16)",https
+framingham_heartRate,heartRate,"MF,enc_null,nor_null,fea_null,dup_null,LOF,OLS",123.06468254091632,0.0909211635589599,"(4238, 16)",https
+kc_house_data,price,"imp_null,enc_null,DS,fea_null,dup_null,IQR,RF_REG",94328.66048596195,9.787004947662354,"(21613, 21)",https
+winequality_red,quality,"imp_null,enc_null,ZS,fea_null,dup_null,out_null,RF_REG",0.314711875,0.5579824447631836,"(1599, 12)",https
+Acoustic,STATUS,"imp_null,OE,MM,fea_null,dup_null,out_null,RF_REG",0.0197481799942677,1.2440171241760254,"(17442, 7)",https
+Bank_Personal_Loan_Modelling,CreditCard,"imp_null,enc_null,ZS,fea_null,AD,IQR,OLS",0.1803476749934746,9.531173944473268,"(5000, 14)",https
+Banking Dataset Classification,y,"imp_null,enc_null,ZS,LC,dup_null,IQR,OLS",0.052455144283826,0.081003189086914,"(32950, 16)",https
+bmi,Index,"imp_null,OE,ZS,fea_null,dup_null,out_null,RF_REG",0.080846,0.1110117435455322,"(500, 4)",https
+bodyPerformance,class,"imp_null,OE,nor_null,fea_null,dup_null,LOF,RF_REG",0.3241676683149486,7.944185256958008,"(13393, 12)",https
+Linear_Regression_test,y,"imp_null,enc_null,MM,fea_null,ED,out_null,OLS",78.56962268334675,0.0149025917053222,"(300, 2)",https
+Breast Cancer Prediction,Class,"imp_null,enc_null,ZS,fea_null,dup_null,IQR,RF_REG",0.0168082568807339,0.2110440731048584,"(683, 11)",https
+Breast Cancer Prediction_NN,Normal Nucleoli,"imp_null,enc_null,ZS,fea_null,dup_null,IQR,OLS",1.650288198276337,0.033074140548706,"(683, 11)",https
+car_data,Purchased,"imp_null,OE,ZS,fea_null,dup_null,out_null,RF_REG",0.0750775,0.1749980449676513,"(1000, 5)",https
+card_transdata,fraud,"imp_null,enc_null,ZS,fea_null,dup_null,LOF,RF_REG",0.002770784696174,415.0465352535248,"(1000000, 8)",https
+cirrhosis,Stage,"MEDIAN,OE,nor_null,fea_null,dup_null,out_null,RF_REG",0.446690625,0.3039956092834472,"(418, 20)",https
+classast - pha,class,"imp_null,enc_null,nor_null,fea_null,dup_null,LOF,RF_REG",0.0084183333333333,0.5809879302978516,"(1748, 12)",https
+classification_in_asteroseismology,POP,"imp_null,enc_null,nor_null,fea_null,dup_null,LOF,RF_REG",0.0154132450331125,0.3279991149902344,"(1001, 4)",https
+classification_in_asteroseismology_epsilon,epsilon,"imp_null,enc_null,nor_null,fea_null,dup_null,LOF,RF_REG",916.1382854304636,0.2619855403900146,"(1001, 4)",https
+Covid Dataset,COVID-19,"imp_null,OE,MM,fea_null,dup_null,out_null,RF_REG",0.0113284812133488,1.3129520416259766,"(5434, 21)",https
+CTG,NSP,"imp_null,OE,ZS,fea_null,dup_null,out_null,RF_REG",0.0064239436619718,1.0129821300506592,"(2129, 40)",https
+CTG_class,CLASS,"imp_null,enc_null,ZS,fea_null,dup_null,out_null,RF_REG",0.0105058823529412,0.5379829406738281,"(2129, 40)",https
+CTG_Variance,Variance,"MEDIAN,OE,ZS,fea_null,dup_null,out_null,RF_REG",106.493723943662,3.3390040397644043,"(2129, 40)",https
+CTG_Median,Median,"imp_null,OE,ZS,fea_null,dup_null,out_null,RF_REG",3.432300470588235,1.6660020351409912,"(2129, 40)",https
+CTG_Mean,Mean,"imp_null,OE,ZS,fea_null,dup_null,out_null,RF_REG",5.477209882352942,3.4881045818328857,"(2129, 40)",https
+Customer Segmentation,Segmentation,"DROP,OE,MM,fea_null,dup_null,LOF,RF_REG",0.9765972889233152,1.963998556137085,"(8068, 11)",https
+customerTargeting,target,"imp_null,OE,DS,fea_null,dup_null,IQR,LASSO",0.513494925947697,0.5299923419952393,"(6620, 71)",https
+Customertravel,ServicesOpted,"imp_null,OE,ZS,fea_null,dup_null,out_null,RF_REG",2.0119270434263035,0.2324199676513672,"(954, 7)",https
+Customertravel_Target,Target,"imp_null,OE,nor_null,fea_null,dup_null,out_null,RF_REG",0.0606733520036871,0.4349911212921142,"(954, 7)",https
+dementia_dataset,Group,"MF,OE,ZS,fea_null,ED,out_null,RF_REG",0.1412453333333333,0.3329870700836181,"(373, 15)",https
+diabetes-dataset,Outcome,"imp_null,enc_null,DS,fea_null,dup_null,out_null,RF_REG",0.0717739999999999,1.0299925804138184,"(2000, 9)",https
+Drug200,Drug,"imp_null,BE,nor_null,fea_null,dup_null,ZSB,RF_REG",0.2337588235294118,0.2840838432312011,"(200, 6)",https
+Drug200_Na_to_K,Na_to_K,"imp_null,BE,nor_null,fea_null,dup_null,out_null,OLS",733.6436636591401,0.0850892066955566,"(200, 6)",https
+ECommerceShipping,ReachedonTime,"imp_null,OE,MM,fea_null,ED,out_null,RF_REG",0.1821422727272727,7.043618440628052,"(10999, 12)",https
+ECommerceShipping_Weight_in_gms,Weight_in_gms,"imp_null,OE,MM,fea_null,ED,out_null,RF_REG",347771.9305,5.806995391845703,"(10999, 12)",https
+ECommerceShipping_Discount_offered,Discount_offered,"imp_null,BE,nor_null,fea_null,dup_null,ZSB,RF_REG",107.00399179580674,8.197537183761597,"(10999, 12)",https
+ECommerceShipping_Customer_rating,Customer_rating,"imp_null,BE,nor_null,fea_null,dup_null,ZSB,OLS",1.948041441946548,0.3960027694702148,"(10999, 12)",https
+Employee Satisfaction Index,satisfied,"imp_null,OE,nor_null,fea_null,dup_null,ZSB,LASSO",0.2437965912891335,0.1519975662231445,"(500, 14)",https
+Employee Satisfaction Index_job_level,job_level,"imp_null,OE,nor_null,fea_null,AD,IQR,OLS",0.0802080957464896,11.746100425720217,"(500, 14)",https
+Employee Satisfaction Index_rating,rating,"imp_null,OE,nor_null,fea_null,dup_null,ZSB,RF_REG",1.988155,0.6209957599639893,"(500, 14)",https
+Employee Satisfaction Index_salary,salary,"imp_null,OE,nor_null,fea_null,dup_null,ZSB,OLS",0.0100544979269023,0.0780019760131836,"(500, 14)",https
+employee_attrition_train,Attrition,"imp_null,OE,ZS,fea_null,dup_null,out_null,LASSO",0.0956901109185875,0.1289865970611572,"(1029, 35)",https
+employee_attrition_YearsAtCompany,YearsAtCompany,"imp_null,OE,MM,fea_null,dup_null,IQR,RF_REG",2.679511811023622,1.474093675613403,"(1029, 35)",https
+employee_attrition_MonthlyIncome,MonthlyIncome,"imp_null,OE,ZS,fea_null,dup_null,out_null,RF_REG",10148.490975816992,1.9110009670257568,"(1029, 35)",https
+employee_attrition_HourlyRate,HourlyRate,"imp_null,OE,MM,fea_null,dup_null,IQR,RF_REG",421.8392722627737,1.1979913711547852,"(1029, 35)",https
+employee_attrition_YearsWithCurrManager,YearsWithCurrManager,"imp_null,OE,MM,fea_null,dup_null,IQR,LASSO",2.642084782134098,0.0839710235595703,"(1029, 35)",https
+FIC,Mortality,"imp_null,OE,nor_null,fea_null,dup_null,out_null,RF_REG",0.0147148648648648,0.189000129699707,"(368, 60)",https
+FIC_Follow,Follow.Up,"imp_null,OE,MM,fea_null,dup_null,IQR,LASSO",4.126639524290703,0.1789901256561279,"(368, 60)",https
+FIC_num,num,"imp_null,enc_null,ZS,fea_null,dup_null,IQR,RF_REG",0.2887542857142857,0.6860017776489258,"(368, 60)",https
+FIC_BGR,BGR,"imp_null,OE,nor_null,fea_null,dup_null,out_null,RF_REG",7.942618918918916,0.5620105266571045,"(368, 60)",https
+Go To College,will_go_to_college,"imp_null,OE,ZS,fea_null,dup_null,out_null,RF_REG",0.098688,0.4419848918914795,"(1000, 11)",https
+Go To College_average_grades,average_grades,"imp_null,OE,ZS,fea_null,dup_null,IQR,RF_REG",18166.315012060302,1.0900053977966309,"(1000, 11)",https
+googleplaystore_reviews,Sentiment,"MEAN,OE,ZS,fea_null,dup_null,IQR,RF_REG",0.0156286805626267,4.725543022155762,"(64295, 5)",https
+Heart Attack Data Set,target,"imp_null,enc_null,ZS,fea_null,dup_null,IQR,RF_REG",0.1292245283018868,0.1669976711273193,"(303, 14)",https
+Heart Attack Data Set_thalach,thalach,"imp_null,enc_null,ZS,fea_null,dup_null,out_null,RF_REG",238.28393442622948,0.3620116710662842,"(303, 14)",https
+Heart Attack Data Set_trestbps,trestbps,"imp_null,enc_null,nor_null,fea_null,dup_null,LOF,RF_REG",93.68149090909093,0.4520106315612793,"(303, 14)",https
+Heart Attack Data Set_chol,chol,"imp_null,enc_null,nor_null,fea_null,dup_null,LOF,RF_REG",684.5928181818181,0.6550033092498779,"(303, 14)",https
+Heart Attack Data Set_oldpeak,oldpeak,"imp_null,enc_null,nor_null,fea_null,dup_null,LOF,RF_REG",55.51197272727273,0.531005859,"(303, 14)",https
+Heart,HeartDisease,"imp_null,OE,MM,fea_null,dup_null,IQR,OLS",0.1051178481314853,0.0360138416290283,"(918, 12)",https
+Heart_RestingBP,RestingBP,"imp_null,BE,ZS,fea_null,dup_null,out_null,OLS",168.94937993211587,0.117999792098999,"(918, 12)",https
+Heart_MaxHR,MaxHR,"imp_null,OE,MM,fea_null,dup_null,IQR,OLS",365.2458987479073,0.0379962921142578,"(918, 12)",https
+Heart_Cholesterol,Cholesterol,"imp_null,OE,DS,fea_null,dup_null,out_null,OLS",3110.0097226855605,0.0580081939697265,"(918, 12)",https
+Heart_Oldpeak,Oldpeak,"imp_null,OE,DS,fea_null,dup_null,out_null,OLS",70.05690944192209,0.0449941158294677,"(918, 12)",https
+heart_Disease_Oldpeak,oldpeak,"imp_null,OE,DS,fea_null,dup_null,out_null,OLS",54.43129513647389,0.0579900741577148,"(303, 14)",https
+heart_Disease_chol,chol,"imp_null,FE,ZS,LC,dup_null,out_null,RF_REG",1414.2089314959017,0.3245713710784912,"(303, 14)",https
+heart_Disease_thalach,thalach,"imp_null,OE,MM,fea_null,dup_null,IQR,RF_REG",210.12757894736845,0.6000072956085205,"(303, 14)",https
+heart_Disease,target,"imp_null,OE,DS,fea_null,dup_null,out_null,OLS",0.0817992101973132,0.0780005455017089,"(303, 14)",https
+hmeq,BAD,"MEAN,OE,nor_null,fea_null,dup_null,out_null,RF_REG",0.0731280783582089,1.7829804420471191,"(5652, 13)",https
+hmeq_CLNO,CLNO,"MEDIAN,OE,nor_null,fea_null,dup_null,IQR,RF_REG",26.5736876276958,1.1600065231323242,"(5652, 13)",https
+hmeq_CLAGE,CLAGE,"MEAN,OE,nor_null,fea_null,dup_null,out_null,RF_REG",468438.81356140354,1.523728370666504,"(5652, 13)",https
+HR Analysis Case Study,is_promoted,"MEAN,OE,ZS,fea_null,dup_null,out_null,RF_REG",0.0522594628178168,10.086339712142944,"(54808, 14)",https
+HR Analysis Case Study_length_of_service,length_of_service,"MEAN,OE,ZS,fea_null,dup_null,out_null,OLS",10.07195058339012,0.12400484085083,"(54808, 14)",https
+HR Analysis Case Study_KPIs,KPIs_met >80%,"imp_null,OE,ZS,fea_null,dup_null,out_null,RF_REG",0.1811665255986787,14.058191537857056,"(54808, 14)",https
+HR Analysis Case Study_awards,awards_won?,"MF,enc_null,DS,LC,dup_null,out_null,OLS",0.0208239165541311,0.508000373840332,"(54808, 14)",https
+HR Analysis Case Study_avg_training_score,avg_training_score,"MEAN,OE,ZS,fea_null,dup_null,out_null,RF_REG",16.403518351418235,18.805996656417847,"(54808, 14)",https
+HR Analytics Employee Promotion Data,is_promoted,"MEDIAN,OE,nor_null,LC,dup_null,out_null,RF_REG",0.0576752326217843,11.112003564834597,"(54808, 13)",https
+HR Analytics Employee Promotion Data_length_of_service,length_of_service,"MF,OE,ZS,fea_null,dup_null,IQR,OLS",8.991222266446522,0.3679986000061035,"(54808, 13)",https
+HR Analytics Employee Promotion Data_award,awards_won?,"MEAN,OE,ZS,fea_null,dup_null,out_null,OLS",0.0214696710693303,0.2579996585845947,"(54808, 13)",https
+HR Analytics Employee Promotion Data_avg_training_score,avg_training_score,"MEAN,OE,ZS,fea_null,dup_null,out_null,RF_REG",16.723627687762104,20.98503017425537,"(54808, 13)",https
+IPL_Auction_2022_FullList,Bid,"imp_null,enc_null,ZS,fea_null,dup_null,IQR,RF_REG",0.008,0.0750012397766113,"(590, 20)",https
+IPL_Auction_2022_FullList_Test caps,Test caps,"imp_null,enc_null,nor_null,fea_null,dup_null,IQR,RF_REG",0.4299576746575342,0.0720903873443603,"(590, 20)",https
+IPL_Auction_2022_FullList_ODI caps,ODI caps,"imp_null,enc_null,nor_null,fea_null,dup_null,IQR,RF_REG",0.1484014285714285,0.0870742797851562,"(590, 20)",https
+IPL_Auction_2022_FullList_T20 caps,T20 caps,"imp_null,enc_null,MM,fea_null,dup_null,IQR,LASSO",2.325574642665457,0.0280134677886962,"(590, 20)",https
+IPL_Auction_2022_FullList_IPL,IPL,"imp_null,enc_null,MM,fea_null,dup_null,IQR,OLS",32.270362371899644,0.0210826396942138,"(590, 20)",https
+IRIS,species,"imp_null,enc_null,ZS,fea_null,dup_null,out_null,RF_REG",0.011,0.0649998188018798,"(150, 5)",https
+IRIS_sepal_length,sepal_length,"imp_null,enc_null,ZS,fea_null,dup_null,out_null,RF_REG",8.114449874074074,0.0730018615722656,"(150, 5)",https
+IRIS_sepal_width,sepal_width,"imp_null,enc_null,MM,fea_null,ED,out_null,RF_REG",9.62898,0.0780308246612548,"(150, 5)",https
+IRIS_petal_length,petal_length,"imp_null,enc_null,MM,fea_null,ED,out_null,OLS",9.309719707420983,0.0119783878326416,"(150, 5)",https
+IRIS_petal_width,petal_width,"imp_null,enc_null,MM,fea_null,dup_null,IQR,RF_REG",4.0351447425925935,0.1290004253387451,"(150, 5)",https
+microbes,microorganisms,"imp_null,enc_null,nor_null,fea_null,dup_null,IQR,RF_REG",0.0058046886314265,8.697573900222778,"(30527, 26)",https
+milknew,Grade,"imp_null,enc_null,nor_null,fea_null,dup_null,IQR,RF_REG",0.0009668965517241,0.0770988464355468,"(1059, 8)",https
+wine,quality,"imp_null,enc_null,ZS,fea_null,dup_null,out_null,RF_REG",0.13953125,0.3550755977630615,"(1599, 12)",https
